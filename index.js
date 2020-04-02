@@ -8,14 +8,14 @@ let tilesInfo = undefined;
     chestGUIImg.onload = () => {
         images["chestGUI"] = chestGUIImg;
     };
-    chestGUIImg.src = "/assets/gui/generic_54.png";
+    chestGUIImg.src = "./assets/gui/generic_54.png";
 
     let itemsTilesMapImg = new Image();
     itemsTilesMapImg.onload = () => {
         images["itemtiles"] = itemsTilesMapImg;
         if (tilesInfo !== undefined) tiles["itemtiles"] = new Tiles(itemsTilesMapImg, tilesInfo, 32, 32);
     };
-    itemsTilesMapImg.src = "/assets/items/items_tiles.png";
+    itemsTilesMapImg.src = "./assets/items/items_tiles.png";
 
     fetch("./assets/items/items_tiles.json").then(res => res.json()).then(tinf => {
         tilesInfo = tinf;
