@@ -1,6 +1,7 @@
 let images = {};
 let tiles = {};
 let tilesInfo = undefined;
+
 (function() {
     "use strict";
     let chestGUIImg = new Image();
