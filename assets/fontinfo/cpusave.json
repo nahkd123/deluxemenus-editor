@@ -1,0 +1,7016 @@
+{
+    "0": {
+      "img": "/assets/font/ascii.png",
+      "x": 0,
+      "y": 3,
+      "w": 6
+    },
+    "1": {
+      "img": "/assets/font/ascii.png",
+      "x": 1,
+      "y": 3,
+      "w": 6
+    },
+    "2": {
+      "img": "/assets/font/ascii.png",
+      "x": 2,
+      "y": 3,
+      "w": 6
+    },
+    "3": {
+      "img": "/assets/font/ascii.png",
+      "x": 3,
+      "y": 3,
+      "w": 6
+    },
+    "4": {
+      "img": "/assets/font/ascii.png",
+      "x": 4,
+      "y": 3,
+      "w": 6
+    },
+    "5": {
+      "img": "/assets/font/ascii.png",
+      "x": 5,
+      "y": 3,
+      "w": 6
+    },
+    "6": {
+      "img": "/assets/font/ascii.png",
+      "x": 6,
+      "y": 3,
+      "w": 6
+    },
+    "7": {
+      "img": "/assets/font/ascii.png",
+      "x": 7,
+      "y": 3,
+      "w": 6
+    },
+    "8": {
+      "img": "/assets/font/ascii.png",
+      "x": 8,
+      "y": 3,
+      "w": 6
+    },
+    "9": {
+      "img": "/assets/font/ascii.png",
+      "x": 9,
+      "y": 3,
+      "w": 6
+    },
+    "¡": {
+      "img": "/assets/font/ascii.png",
+      "x": 13,
+      "y": 10,
+      "w": 2
+    },
+    "‰": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 1,
+      "y": 0,
+      "w": 6
+    },
+    "­": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 2,
+      "y": 0,
+      "w": 4
+    },
+    "·": {
+      "img": "/assets/font/ascii.png",
+      "x": 10,
+      "y": 15,
+      "w": 1
+    },
+    "₴": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 4,
+      "y": 0,
+      "w": 8
+    },
+    "≠": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 5,
+      "y": 0,
+      "w": 6
+    },
+    "¿": {
+      "img": "/assets/font/ascii.png",
+      "x": 8,
+      "y": 10,
+      "w": 6
+    },
+    "×": {
+      "img": "/assets/font/ascii.png",
+      "x": 14,
+      "y": 9,
+      "w": 6
+    },
+    "Ø": {
+      "img": "/assets/font/ascii.png",
+      "x": 13,
+      "y": 9,
+      "w": 6
+    },
+    "Þ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 9,
+      "y": 0,
+      "w": 6
+    },
+    "һ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 10,
+      "y": 0,
+      "w": 6
+    },
+    "ð": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 11,
+      "y": 0,
+      "w": 6
+    },
+    "ø": {
+      "img": "/assets/font/ascii.png",
+      "x": 11,
+      "y": 9,
+      "w": 6
+    },
+    "þ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 13,
+      "y": 0,
+      "w": 6
+    },
+    "Α": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 14,
+      "y": 0,
+      "w": 6
+    },
+    "Β": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 15,
+      "y": 0,
+      "w": 6
+    },
+    "Γ": {
+      "img": "/assets/font/ascii.png",
+      "x": 2,
+      "y": 14,
+      "w": 7
+    },
+    "Δ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 1,
+      "y": 1,
+      "w": 6
+    },
+    "Ε": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 2,
+      "y": 1,
+      "w": 6
+    },
+    "Ζ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 3,
+      "y": 1,
+      "w": 6
+    },
+    "Η": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 4,
+      "y": 1,
+      "w": 6
+    },
+    "Θ": {
+      "img": "/assets/font/ascii.png",
+      "x": 9,
+      "y": 14,
+      "w": 8
+    },
+    "Ι": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 6,
+      "y": 1,
+      "w": 4
+    },
+    "Κ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 7,
+      "y": 1,
+      "w": 6
+    },
+    "Λ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 8,
+      "y": 1,
+      "w": 6
+    },
+    "Μ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 9,
+      "y": 1,
+      "w": 6
+    },
+    "Ν": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 10,
+      "y": 1,
+      "w": 6
+    },
+    "Ξ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 11,
+      "y": 1,
+      "w": 6
+    },
+    "Ο": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 12,
+      "y": 1,
+      "w": 6
+    },
+    "Π": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 13,
+      "y": 1,
+      "w": 6
+    },
+    "Ρ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 14,
+      "y": 1,
+      "w": 6
+    },
+    "Σ": {
+      "img": "/assets/font/ascii.png",
+      "x": 4,
+      "y": 14,
+      "w": 7
+    },
+    "Τ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 0,
+      "y": 2,
+      "w": 6
+    },
+    "Υ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 1,
+      "y": 2,
+      "w": 6
+    },
+    "Φ": {
+      "img": "/assets/font/ascii.png",
+      "x": 8,
+      "y": 14,
+      "w": 7
+    },
+    "Χ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 3,
+      "y": 2,
+      "w": 6
+    },
+    "Ψ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 4,
+      "y": 2,
+      "w": 6
+    },
+    "Ω": {
+      "img": "/assets/font/ascii.png",
+      "x": 10,
+      "y": 14,
+      "w": 8
+    },
+    "α": {
+      "img": "/assets/font/ascii.png",
+      "x": 0,
+      "y": 14,
+      "w": 8
+    },
+    "β": {
+      "img": "/assets/font/ascii.png",
+      "x": 1,
+      "y": 14,
+      "w": 7
+    },
+    "γ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 8,
+      "y": 2,
+      "w": 6
+    },
+    "δ": {
+      "img": "/assets/font/ascii.png",
+      "x": 11,
+      "y": 14,
+      "w": 7
+    },
+    "ε": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 10,
+      "y": 2,
+      "w": 5
+    },
+    "ζ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 11,
+      "y": 2,
+      "w": 6
+    },
+    "η": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 12,
+      "y": 2,
+      "w": 6
+    },
+    "θ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 13,
+      "y": 2,
+      "w": 6
+    },
+    "ι": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 14,
+      "y": 2,
+      "w": 3
+    },
+    "κ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 15,
+      "y": 2,
+      "w": 5
+    },
+    "λ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 0,
+      "y": 3,
+      "w": 6
+    },
+    "μ": {
+      "img": "/assets/font/ascii.png",
+      "x": 6,
+      "y": 14,
+      "w": 8
+    },
+    "ν": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 2,
+      "y": 3,
+      "w": 6
+    },
+    "ξ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 3,
+      "y": 3,
+      "w": 6
+    },
+    "ο": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 4,
+      "y": 3,
+      "w": 6
+    },
+    "π": {
+      "img": "/assets/font/ascii.png",
+      "x": 3,
+      "y": 14,
+      "w": 8
+    },
+    "ρ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 6,
+      "y": 3,
+      "w": 6
+    },
+    "ς": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 7,
+      "y": 3,
+      "w": 6
+    },
+    "σ": {
+      "img": "/assets/font/ascii.png",
+      "x": 5,
+      "y": 14,
+      "w": 8
+    },
+    "τ": {
+      "img": "/assets/font/ascii.png",
+      "x": 7,
+      "y": 14,
+      "w": 8
+    },
+    "υ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 10,
+      "y": 3,
+      "w": 6
+    },
+    "φ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 11,
+      "y": 3,
+      "w": 6
+    },
+    "χ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 12,
+      "y": 3,
+      "w": 6
+    },
+    "ψ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 13,
+      "y": 3,
+      "w": 6
+    },
+    "ω": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 14,
+      "y": 3,
+      "w": 8
+    },
+    "Ђ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 15,
+      "y": 3,
+      "w": 8
+    },
+    "Ѕ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 0,
+      "y": 4,
+      "w": 6
+    },
+    "І": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 1,
+      "y": 4,
+      "w": 4
+    },
+    "Ј": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 2,
+      "y": 4,
+      "w": 6
+    },
+    "Љ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 3,
+      "y": 4,
+      "w": 8
+    },
+    "Њ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 4,
+      "y": 4,
+      "w": 7
+    },
+    "Ћ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 5,
+      "y": 4,
+      "w": 7
+    },
+    "А": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 6,
+      "y": 4,
+      "w": 6
+    },
+    "Б": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 7,
+      "y": 4,
+      "w": 6
+    },
+    "В": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 8,
+      "y": 4,
+      "w": 6
+    },
+    "Г": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 9,
+      "y": 4,
+      "w": 6
+    },
+    "Д": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 10,
+      "y": 4,
+      "w": 7
+    },
+    "Е": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 11,
+      "y": 4,
+      "w": 6
+    },
+    "Ж": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 12,
+      "y": 4,
+      "w": 8
+    },
+    "З": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 13,
+      "y": 4,
+      "w": 6
+    },
+    "И": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 14,
+      "y": 4,
+      "w": 6
+    },
+    "К": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 15,
+      "y": 4,
+      "w": 6
+    },
+    "Л": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 0,
+      "y": 5,
+      "w": 6
+    },
+    "М": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 1,
+      "y": 5,
+      "w": 6
+    },
+    "Н": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 2,
+      "y": 5,
+      "w": 6
+    },
+    "О": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 3,
+      "y": 5,
+      "w": 6
+    },
+    "П": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 4,
+      "y": 5,
+      "w": 6
+    },
+    "Р": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 5,
+      "y": 5,
+      "w": 6
+    },
+    "С": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 6,
+      "y": 5,
+      "w": 6
+    },
+    "Т": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 7,
+      "y": 5,
+      "w": 6
+    },
+    "У": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 8,
+      "y": 5,
+      "w": 6
+    },
+    "Ф": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 9,
+      "y": 5,
+      "w": 8
+    },
+    "Х": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 10,
+      "y": 5,
+      "w": 6
+    },
+    "Ц": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 11,
+      "y": 5,
+      "w": 7
+    },
+    "Ч": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 12,
+      "y": 5,
+      "w": 6
+    },
+    "Ш": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 13,
+      "y": 5,
+      "w": 8
+    },
+    "Щ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 14,
+      "y": 5,
+      "w": 8
+    },
+    "Ъ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 15,
+      "y": 5,
+      "w": 7
+    },
+    "Ы": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 0,
+      "y": 6,
+      "w": 6
+    },
+    "Ь": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 1,
+      "y": 6,
+      "w": 6
+    },
+    "Э": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 2,
+      "y": 6,
+      "w": 6
+    },
+    "Ю": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 3,
+      "y": 6,
+      "w": 8
+    },
+    "Я": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 4,
+      "y": 6,
+      "w": 6
+    },
+    "а": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 5,
+      "y": 6,
+      "w": 6
+    },
+    "б": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 6,
+      "y": 6,
+      "w": 6
+    },
+    "в": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 7,
+      "y": 6,
+      "w": 6
+    },
+    "г": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 8,
+      "y": 6,
+      "w": 5
+    },
+    "д": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 9,
+      "y": 6,
+      "w": 7
+    },
+    "е": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 10,
+      "y": 6,
+      "w": 6
+    },
+    "ж": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 11,
+      "y": 6,
+      "w": 6
+    },
+    "з": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 12,
+      "y": 6,
+      "w": 6
+    },
+    "и": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 13,
+      "y": 6,
+      "w": 6
+    },
+    "к": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 14,
+      "y": 6,
+      "w": 5
+    },
+    "л": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 15,
+      "y": 6,
+      "w": 6
+    },
+    "м": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 0,
+      "y": 7,
+      "w": 6
+    },
+    "н": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 1,
+      "y": 7,
+      "w": 6
+    },
+    "о": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 2,
+      "y": 7,
+      "w": 6
+    },
+    "п": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 3,
+      "y": 7,
+      "w": 6
+    },
+    "р": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 4,
+      "y": 7,
+      "w": 6
+    },
+    "с": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 5,
+      "y": 7,
+      "w": 6
+    },
+    "т": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 6,
+      "y": 7,
+      "w": 6
+    },
+    "у": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 7,
+      "y": 7,
+      "w": 6
+    },
+    "ф": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 8,
+      "y": 7,
+      "w": 6
+    },
+    "х": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 9,
+      "y": 7,
+      "w": 6
+    },
+    "ц": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 10,
+      "y": 7,
+      "w": 6
+    },
+    "ч": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 11,
+      "y": 7,
+      "w": 6
+    },
+    "ш": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 12,
+      "y": 7,
+      "w": 6
+    },
+    "щ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 13,
+      "y": 7,
+      "w": 7
+    },
+    "ъ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 14,
+      "y": 7,
+      "w": 7
+    },
+    "ы": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 15,
+      "y": 7,
+      "w": 5
+    },
+    "ь": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 0,
+      "y": 8,
+      "w": 6
+    },
+    "э": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 1,
+      "y": 8,
+      "w": 6
+    },
+    "ю": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 2,
+      "y": 8,
+      "w": 8
+    },
+    "я": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 3,
+      "y": 8,
+      "w": 6
+    },
+    "є": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 4,
+      "y": 8,
+      "w": 6
+    },
+    "ѕ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 5,
+      "y": 8,
+      "w": 6
+    },
+    "і": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 6,
+      "y": 8,
+      "w": 2
+    },
+    "ј": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 7,
+      "y": 8,
+      "w": 6
+    },
+    "љ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 8,
+      "y": 8,
+      "w": 8
+    },
+    "њ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 9,
+      "y": 8,
+      "w": 7
+    },
+    "–": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 10,
+      "y": 8,
+      "w": 7
+    },
+    "—": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 11,
+      "y": 8,
+      "w": 8
+    },
+    "‘": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 12,
+      "y": 8,
+      "w": 3
+    },
+    "’": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 13,
+      "y": 8,
+      "w": 3
+    },
+    "“": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 14,
+      "y": 8,
+      "w": 5
+    },
+    "”": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 15,
+      "y": 8,
+      "w": 5
+    },
+    "„": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 0,
+      "y": 9,
+      "w": 5
+    },
+    "…": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 1,
+      "y": 9,
+      "w": 2
+    },
+    "⁊": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 2,
+      "y": 9,
+      "w": 5
+    },
+    "←": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 3,
+      "y": 9,
+      "w": 7
+    },
+    "↑": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 4,
+      "y": 9,
+      "w": 6
+    },
+    "→": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 5,
+      "y": 9,
+      "w": 7
+    },
+    "↓": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 6,
+      "y": 9,
+      "w": 6
+    },
+    "⇄": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 7,
+      "y": 9,
+      "w": 7
+    },
+    "＋": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 8,
+      "y": 9,
+      "w": 6
+    },
+    "Ə": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 9,
+      "y": 9,
+      "w": 6
+    },
+    "ə": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 10,
+      "y": 9,
+      "w": 6
+    },
+    "ɛ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 11,
+      "y": 9,
+      "w": 6
+    },
+    "ɪ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 12,
+      "y": 9,
+      "w": 4
+    },
+    "Ү": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 13,
+      "y": 9,
+      "w": 6
+    },
+    "ү": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 14,
+      "y": 9,
+      "w": 6
+    },
+    "Ө": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 15,
+      "y": 9,
+      "w": 6
+    },
+    "ө": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 0,
+      "y": 10,
+      "w": 6
+    },
+    "ʻ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 1,
+      "y": 10,
+      "w": 2
+    },
+    "ˌ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 2,
+      "y": 10,
+      "w": 2
+    },
+    ";": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 3,
+      "y": 10,
+      "w": 2
+    },
+    "ĸ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 4,
+      "y": 10,
+      "w": 5
+    },
+    "ẞ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 5,
+      "y": 10,
+      "w": 6
+    },
+    "ß": {
+      "img": "/assets/font/ascii.png",
+      "x": 11,
+      "y": 0,
+      "w": 6
+    },
+    "₽": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 7,
+      "y": 10,
+      "w": 7
+    },
+    "€": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 8,
+      "y": 10,
+      "w": 7
+    },
+    "Ѣ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 9,
+      "y": 10,
+      "w": 7
+    },
+    "ѣ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 10,
+      "y": 10,
+      "w": 7
+    },
+    "Ѵ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 11,
+      "y": 10,
+      "w": 7
+    },
+    "ѵ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 12,
+      "y": 10,
+      "w": 7
+    },
+    "Ӏ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 13,
+      "y": 10,
+      "w": 4
+    },
+    "Ѳ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 14,
+      "y": 10,
+      "w": 6
+    },
+    "ѳ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 15,
+      "y": 10,
+      "w": 6
+    },
+    "⁰": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 0,
+      "y": 11,
+      "w": 5
+    },
+    "¹": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 1,
+      "y": 11,
+      "w": 4
+    },
+    "³": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 2,
+      "y": 11,
+      "w": 5
+    },
+    "⁴": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 3,
+      "y": 11,
+      "w": 5
+    },
+    "⁵": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 4,
+      "y": 11,
+      "w": 5
+    },
+    "⁶": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 5,
+      "y": 11,
+      "w": 5
+    },
+    "⁷": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 6,
+      "y": 11,
+      "w": 5
+    },
+    "⁸": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 7,
+      "y": 11,
+      "w": 5
+    },
+    "⁹": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 8,
+      "y": 11,
+      "w": 5
+    },
+    "⁺": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 9,
+      "y": 11,
+      "w": 4
+    },
+    "⁻": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 10,
+      "y": 11,
+      "w": 4
+    },
+    "⁼": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 11,
+      "y": 11,
+      "w": 4
+    },
+    "⁽": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 12,
+      "y": 11,
+      "w": 3
+    },
+    "⁾": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 13,
+      "y": 11,
+      "w": 3
+    },
+    "ⁱ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 14,
+      "y": 11,
+      "w": 2
+    },
+    "™": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 15,
+      "y": 11,
+      "w": 8
+    },
+    "ʔ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 0,
+      "y": 12,
+      "w": 6
+    },
+    "ʕ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 1,
+      "y": 12,
+      "w": 6
+    },
+    "⧈": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 2,
+      "y": 12,
+      "w": 8
+    },
+    "⚔": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 3,
+      "y": 12,
+      "w": 8
+    },
+    "☠": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 4,
+      "y": 12,
+      "w": 8
+    },
+    "Қ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 5,
+      "y": 12,
+      "w": 7
+    },
+    "қ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 6,
+      "y": 12,
+      "w": 6
+    },
+    "Ғ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 7,
+      "y": 12,
+      "w": 6
+    },
+    "ғ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 8,
+      "y": 12,
+      "w": 5
+    },
+    "Ұ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 9,
+      "y": 12,
+      "w": 6
+    },
+    "ұ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 10,
+      "y": 12,
+      "w": 6
+    },
+    "Ә": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 11,
+      "y": 12,
+      "w": 6
+    },
+    "ә": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 12,
+      "y": 12,
+      "w": 6
+    },
+    "Җ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 13,
+      "y": 12,
+      "w": 8
+    },
+    "җ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 14,
+      "y": 12,
+      "w": 7
+    },
+    "Ң": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 15,
+      "y": 12,
+      "w": 7
+    },
+    "ң": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 0,
+      "y": 13,
+      "w": 7
+    },
+    "Һ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 1,
+      "y": 13,
+      "w": 6
+    },
+    "א": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 2,
+      "y": 13,
+      "w": 6
+    },
+    "ב": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 3,
+      "y": 13,
+      "w": 6
+    },
+    "ג": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 4,
+      "y": 13,
+      "w": 5
+    },
+    "ד": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 5,
+      "y": 13,
+      "w": 6
+    },
+    "ה": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 6,
+      "y": 13,
+      "w": 6
+    },
+    "ו": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 7,
+      "y": 13,
+      "w": 2
+    },
+    "ז": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 8,
+      "y": 13,
+      "w": 4
+    },
+    "ח": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 9,
+      "y": 13,
+      "w": 6
+    },
+    "ט": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 10,
+      "y": 13,
+      "w": 6
+    },
+    "י": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 11,
+      "y": 13,
+      "w": 2
+    },
+    "כ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 12,
+      "y": 13,
+      "w": 6
+    },
+    "ל": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 13,
+      "y": 13,
+      "w": 6
+    },
+    "מ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 14,
+      "y": 13,
+      "w": 6
+    },
+    "ם": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 15,
+      "y": 13,
+      "w": 6
+    },
+    "נ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 0,
+      "y": 14,
+      "w": 4
+    },
+    "ן": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 1,
+      "y": 14,
+      "w": 2
+    },
+    "ס": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 2,
+      "y": 14,
+      "w": 6
+    },
+    "ע": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 3,
+      "y": 14,
+      "w": 6
+    },
+    "פ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 4,
+      "y": 14,
+      "w": 6
+    },
+    "ף": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 5,
+      "y": 14,
+      "w": 6
+    },
+    "צ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 6,
+      "y": 14,
+      "w": 6
+    },
+    "ץ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 7,
+      "y": 14,
+      "w": 6
+    },
+    "ק": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 8,
+      "y": 14,
+      "w": 6
+    },
+    "ר": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 9,
+      "y": 14,
+      "w": 6
+    },
+    "¢": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 10,
+      "y": 14,
+      "w": 6
+    },
+    "¤": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 11,
+      "y": 14,
+      "w": 8
+    },
+    "¥": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 12,
+      "y": 14,
+      "w": 6
+    },
+    "©": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 13,
+      "y": 14,
+      "w": 8
+    },
+    "®": {
+      "img": "/assets/font/ascii.png",
+      "x": 9,
+      "y": 10,
+      "w": 8
+    },
+    "µ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 15,
+      "y": 14,
+      "w": 6
+    },
+    "¶": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 0,
+      "y": 15,
+      "w": 7
+    },
+    "¼": {
+      "img": "/assets/font/ascii.png",
+      "x": 12,
+      "y": 10,
+      "w": 6
+    },
+    "½": {
+      "img": "/assets/font/ascii.png",
+      "x": 11,
+      "y": 10,
+      "w": 6
+    },
+    "¾": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 3,
+      "y": 15,
+      "w": 8
+    },
+    "·": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 4,
+      "y": 15,
+      "w": 2
+    },
+    "‐": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 5,
+      "y": 15,
+      "w": 4
+    },
+    "‚": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 6,
+      "y": 15,
+      "w": 3
+    },
+    "†": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 7,
+      "y": 15,
+      "w": 6
+    },
+    "‡": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 8,
+      "y": 15,
+      "w": 6
+    },
+    "•": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 9,
+      "y": 15,
+      "w": 3
+    },
+    "‱": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 10,
+      "y": 15,
+      "w": 7
+    },
+    "′": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 11,
+      "y": 15,
+      "w": 3
+    },
+    "″": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 12,
+      "y": 15,
+      "w": 5
+    },
+    "‴": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 13,
+      "y": 15,
+      "w": 7
+    },
+    "‵": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 14,
+      "y": 15,
+      "w": 3
+    },
+    "‶": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 15,
+      "y": 15,
+      "w": 5
+    },
+    "‷": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 0,
+      "y": 16,
+      "w": 7
+    },
+    "‹": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 1,
+      "y": 16,
+      "w": 4
+    },
+    "›": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 2,
+      "y": 16,
+      "w": 4
+    },
+    "※": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 3,
+      "y": 16,
+      "w": 8
+    },
+    "‼": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 4,
+      "y": 16,
+      "w": 2
+    },
+    "‽": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 5,
+      "y": 16,
+      "w": 6
+    },
+    "⁂": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 6,
+      "y": 16,
+      "w": 8
+    },
+    "⁈": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 7,
+      "y": 16,
+      "w": 6
+    },
+    "⁉": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 8,
+      "y": 16,
+      "w": 2
+    },
+    "⁋": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 9,
+      "y": 16,
+      "w": 7
+    },
+    "⁎": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 10,
+      "y": 16,
+      "w": 4
+    },
+    "⁏": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 11,
+      "y": 16,
+      "w": 2
+    },
+    "⁑": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 12,
+      "y": 16,
+      "w": 4
+    },
+    "⁒": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 13,
+      "y": 16,
+      "w": 4
+    },
+    "⁗": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 14,
+      "y": 16,
+      "w": 8
+    },
+    "℗": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 15,
+      "y": 16,
+      "w": 8
+    },
+    "−": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 0,
+      "y": 17,
+      "w": 6
+    },
+    "∓": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 1,
+      "y": 17,
+      "w": 6
+    },
+    "∞": {
+      "img": "/assets/font/ascii.png",
+      "x": 12,
+      "y": 14,
+      "w": 8
+    },
+    "☀": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 3,
+      "y": 17,
+      "w": 8
+    },
+    "☁": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 4,
+      "y": 17,
+      "w": 8
+    },
+    "☈": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 5,
+      "y": 17,
+      "w": 8
+    },
+    "Є": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 6,
+      "y": 17,
+      "w": 6
+    },
+    "☲": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 7,
+      "y": 17,
+      "w": 7
+    },
+    "☵": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 8,
+      "y": 17,
+      "w": 8
+    },
+    "☽": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 9,
+      "y": 17,
+      "w": 8
+    },
+    "♀": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 10,
+      "y": 17,
+      "w": 4
+    },
+    "♂": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 11,
+      "y": 17,
+      "w": 6
+    },
+    "⚥": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 12,
+      "y": 17,
+      "w": 6
+    },
+    "♠": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 13,
+      "y": 17,
+      "w": 6
+    },
+    "♣": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 14,
+      "y": 17,
+      "w": 6
+    },
+    "♥": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 15,
+      "y": 17,
+      "w": 6
+    },
+    "♦": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 0,
+      "y": 18,
+      "w": 6
+    },
+    "♩": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 1,
+      "y": 18,
+      "w": 4
+    },
+    "♪": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 2,
+      "y": 18,
+      "w": 6
+    },
+    "♫": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 3,
+      "y": 18,
+      "w": 8
+    },
+    "♬": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 4,
+      "y": 18,
+      "w": 8
+    },
+    "♭": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 5,
+      "y": 18,
+      "w": 4
+    },
+    "♮": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 6,
+      "y": 18,
+      "w": 4
+    },
+    "♯": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 7,
+      "y": 18,
+      "w": 6
+    },
+    "⚀": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 8,
+      "y": 18,
+      "w": 8
+    },
+    "⚁": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 9,
+      "y": 18,
+      "w": 8
+    },
+    "⚂": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 10,
+      "y": 18,
+      "w": 8
+    },
+    "⚃": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 11,
+      "y": 18,
+      "w": 8
+    },
+    "⚄": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 12,
+      "y": 18,
+      "w": 8
+    },
+    "⚅": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 13,
+      "y": 18,
+      "w": 8
+    },
+    "⚠": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 14,
+      "y": 18,
+      "w": 8
+    },
+    "⚡": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 15,
+      "y": 18,
+      "w": 6
+    },
+    "⛏": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 0,
+      "y": 19,
+      "w": 1
+    },
+    "✔": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 1,
+      "y": 19,
+      "w": 7
+    },
+    "❄": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 2,
+      "y": 19,
+      "w": 8
+    },
+    "❌": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 3,
+      "y": 19,
+      "w": 7
+    },
+    "❤": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 4,
+      "y": 19,
+      "w": 8
+    },
+    "⭐": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 5,
+      "y": 19,
+      "w": 8
+    },
+    "⸘": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 6,
+      "y": 19,
+      "w": 6
+    },
+    "⸮": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 7,
+      "y": 19,
+      "w": 6
+    },
+    "⸵": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 8,
+      "y": 19,
+      "w": 2
+    },
+    "⸸": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 9,
+      "y": 19,
+      "w": 6
+    },
+    "⹁": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 10,
+      "y": 19,
+      "w": 2
+    },
+    "⹋": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 11,
+      "y": 19,
+      "w": 6
+    },
+    "⥝": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 12,
+      "y": 19,
+      "w": 6
+    },
+    "ᘔ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 13,
+      "y": 19,
+      "w": 6
+    },
+    "Ɛ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 14,
+      "y": 19,
+      "w": 6
+    },
+    "߈": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 15,
+      "y": 19,
+      "w": 6
+    },
+    "ϛ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 0,
+      "y": 20,
+      "w": 6
+    },
+    "ㄥ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 1,
+      "y": 20,
+      "w": 6
+    },
+    "Ɐ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 2,
+      "y": 20,
+      "w": 6
+    },
+    "ᗺ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 3,
+      "y": 20,
+      "w": 6
+    },
+    "Ɔ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 4,
+      "y": 20,
+      "w": 6
+    },
+    "ᗡ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 5,
+      "y": 20,
+      "w": 6
+    },
+    "Ǝ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 6,
+      "y": 20,
+      "w": 6
+    },
+    "Ⅎ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 7,
+      "y": 20,
+      "w": 6
+    },
+    "⅁": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 8,
+      "y": 20,
+      "w": 6
+    },
+    "Ʞ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 9,
+      "y": 20,
+      "w": 6
+    },
+    "Ꞁ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 10,
+      "y": 20,
+      "w": 6
+    },
+    "Ԁ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 11,
+      "y": 20,
+      "w": 6
+    },
+    "Ꝺ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 12,
+      "y": 20,
+      "w": 6
+    },
+    "ᴚ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 13,
+      "y": 20,
+      "w": 6
+    },
+    "⟘": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 14,
+      "y": 20,
+      "w": 6
+    },
+    "∩": {
+      "img": "/assets/font/ascii.png",
+      "x": 15,
+      "y": 14,
+      "w": 6
+    },
+    "Ʌ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 0,
+      "y": 21,
+      "w": 6
+    },
+    "⅄": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 1,
+      "y": 21,
+      "w": 6
+    },
+    "ɐ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 2,
+      "y": 21,
+      "w": 6
+    },
+    "ɔ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 3,
+      "y": 21,
+      "w": 6
+    },
+    "ǝ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 4,
+      "y": 21,
+      "w": 6
+    },
+    "ɟ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 5,
+      "y": 21,
+      "w": 5
+    },
+    "ᵷ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 6,
+      "y": 21,
+      "w": 6
+    },
+    "ɥ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 7,
+      "y": 21,
+      "w": 6
+    },
+    "ᴉ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 8,
+      "y": 21,
+      "w": 2
+    },
+    "ɾ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 9,
+      "y": 21,
+      "w": 6
+    },
+    "ʞ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 10,
+      "y": 21,
+      "w": 5
+    },
+    "ꞁ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 11,
+      "y": 21,
+      "w": 3
+    },
+    "ɯ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 12,
+      "y": 21,
+      "w": 6
+    },
+    "ɹ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 13,
+      "y": 21,
+      "w": 6
+    },
+    "ʇ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 14,
+      "y": 21,
+      "w": 4
+    },
+    "ʌ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 15,
+      "y": 21,
+      "w": 6
+    },
+    "ʍ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 0,
+      "y": 22,
+      "w": 6
+    },
+    "ʎ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 1,
+      "y": 22,
+      "w": 6
+    },
+    "Ա": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 2,
+      "y": 22,
+      "w": 6
+    },
+    "Բ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 3,
+      "y": 22,
+      "w": 6
+    },
+    "Գ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 4,
+      "y": 22,
+      "w": 7
+    },
+    "Դ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 5,
+      "y": 22,
+      "w": 7
+    },
+    "Զ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 6,
+      "y": 22,
+      "w": 6
+    },
+    "Է": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 7,
+      "y": 22,
+      "w": 6
+    },
+    "Թ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 8,
+      "y": 22,
+      "w": 7
+    },
+    "Ժ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 9,
+      "y": 22,
+      "w": 7
+    },
+    "Ի": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 10,
+      "y": 22,
+      "w": 6
+    },
+    "Լ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 11,
+      "y": 22,
+      "w": 5
+    },
+    "Խ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 12,
+      "y": 22,
+      "w": 7
+    },
+    "Ծ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 13,
+      "y": 22,
+      "w": 6
+    },
+    "Կ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 14,
+      "y": 22,
+      "w": 6
+    },
+    "Հ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 15,
+      "y": 22,
+      "w": 6
+    },
+    "Ձ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 0,
+      "y": 23,
+      "w": 6
+    },
+    "Ղ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 1,
+      "y": 23,
+      "w": 7
+    },
+    "Ճ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 2,
+      "y": 23,
+      "w": 6
+    },
+    "Մ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 3,
+      "y": 23,
+      "w": 7
+    },
+    "Յ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 4,
+      "y": 23,
+      "w": 6
+    },
+    "Ն": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 5,
+      "y": 23,
+      "w": 6
+    },
+    "Շ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 6,
+      "y": 23,
+      "w": 6
+    },
+    "Ո": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 7,
+      "y": 23,
+      "w": 6
+    },
+    "Չ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 8,
+      "y": 23,
+      "w": 6
+    },
+    "Ջ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 9,
+      "y": 23,
+      "w": 6
+    },
+    "Ռ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 10,
+      "y": 23,
+      "w": 7
+    },
+    "Ս": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 11,
+      "y": 23,
+      "w": 6
+    },
+    "Վ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 12,
+      "y": 23,
+      "w": 6
+    },
+    "Տ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 13,
+      "y": 23,
+      "w": 6
+    },
+    "Ր": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 14,
+      "y": 23,
+      "w": 6
+    },
+    "Ց": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 15,
+      "y": 23,
+      "w": 6
+    },
+    "Ւ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 0,
+      "y": 24,
+      "w": 5
+    },
+    "Փ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 1,
+      "y": 24,
+      "w": 6
+    },
+    "Ք": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 2,
+      "y": 24,
+      "w": 6
+    },
+    "Օ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 3,
+      "y": 24,
+      "w": 6
+    },
+    "Ֆ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 4,
+      "y": 24,
+      "w": 6
+    },
+    "ՙ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 5,
+      "y": 24,
+      "w": 3
+    },
+    "ա": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 6,
+      "y": 24,
+      "w": 6
+    },
+    "բ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 7,
+      "y": 24,
+      "w": 6
+    },
+    "գ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 8,
+      "y": 24,
+      "w": 7
+    },
+    "դ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 9,
+      "y": 24,
+      "w": 7
+    },
+    "ե": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 10,
+      "y": 24,
+      "w": 6
+    },
+    "զ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 11,
+      "y": 24,
+      "w": 7
+    },
+    "է": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 12,
+      "y": 24,
+      "w": 5
+    },
+    "ը": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 13,
+      "y": 24,
+      "w": 6
+    },
+    "թ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 14,
+      "y": 24,
+      "w": 6
+    },
+    "ժ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 15,
+      "y": 24,
+      "w": 7
+    },
+    "ի": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 0,
+      "y": 25,
+      "w": 6
+    },
+    "լ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 1,
+      "y": 25,
+      "w": 3
+    },
+    "խ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 2,
+      "y": 25,
+      "w": 7
+    },
+    "ծ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 3,
+      "y": 25,
+      "w": 6
+    },
+    "կ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 4,
+      "y": 25,
+      "w": 6
+    },
+    "հ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 5,
+      "y": 25,
+      "w": 6
+    },
+    "ձ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 6,
+      "y": 25,
+      "w": 6
+    },
+    "ղ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 7,
+      "y": 25,
+      "w": 7
+    },
+    "ճ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 8,
+      "y": 25,
+      "w": 6
+    },
+    "մ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 9,
+      "y": 25,
+      "w": 7
+    },
+    "յ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 10,
+      "y": 25,
+      "w": 6
+    },
+    "ն": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 11,
+      "y": 25,
+      "w": 7
+    },
+    "շ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 12,
+      "y": 25,
+      "w": 6
+    },
+    "ո": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 13,
+      "y": 25,
+      "w": 6
+    },
+    "չ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 14,
+      "y": 25,
+      "w": 6
+    },
+    "պ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 15,
+      "y": 25,
+      "w": 6
+    },
+    "ջ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 0,
+      "y": 26,
+      "w": 6
+    },
+    "ռ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 1,
+      "y": 26,
+      "w": 6
+    },
+    "ս": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 2,
+      "y": 26,
+      "w": 6
+    },
+    "վ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 3,
+      "y": 26,
+      "w": 7
+    },
+    "տ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 4,
+      "y": 26,
+      "w": 8
+    },
+    "ր": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 5,
+      "y": 26,
+      "w": 6
+    },
+    "ց": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 6,
+      "y": 26,
+      "w": 6
+    },
+    "ւ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 7,
+      "y": 26,
+      "w": 5
+    },
+    "փ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 8,
+      "y": 26,
+      "w": 8
+    },
+    "ք": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 9,
+      "y": 26,
+      "w": 7
+    },
+    "օ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 10,
+      "y": 26,
+      "w": 6
+    },
+    "ֆ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 11,
+      "y": 26,
+      "w": 6
+    },
+    "և": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 12,
+      "y": 26,
+      "w": 7
+    },
+    "ש": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 13,
+      "y": 26,
+      "w": 6
+    },
+    "ת": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 14,
+      "y": 26,
+      "w": 6
+    },
+    "Ը": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 15,
+      "y": 26,
+      "w": 6
+    },
+    "՚": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 0,
+      "y": 27,
+      "w": 3
+    },
+    "՛": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 1,
+      "y": 27,
+      "w": 3
+    },
+    "՜": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 2,
+      "y": 27,
+      "w": 4
+    },
+    "՝": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 3,
+      "y": 27,
+      "w": 3
+    },
+    "՞": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 4,
+      "y": 27,
+      "w": 4
+    },
+    "՟": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 5,
+      "y": 27,
+      "w": 6
+    },
+    "ՠ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 6,
+      "y": 27,
+      "w": 6
+    },
+    "ֈ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 7,
+      "y": 27,
+      "w": 7
+    },
+    "֏": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 8,
+      "y": 27,
+      "w": 6
+    },
+    "¯": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 9,
+      "y": 27,
+      "w": 6
+    },
+    "ſ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 10,
+      "y": 27,
+      "w": 4
+    },
+    "Ʒ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 11,
+      "y": 27,
+      "w": 6
+    },
+    "ʒ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 12,
+      "y": 27,
+      "w": 6
+    },
+    "Ƿ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 13,
+      "y": 27,
+      "w": 6
+    },
+    "ƿ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 14,
+      "y": 27,
+      "w": 6
+    },
+    "Ȝ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 15,
+      "y": 27,
+      "w": 6
+    },
+    "ȝ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 0,
+      "y": 28,
+      "w": 6
+    },
+    "Ȥ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 1,
+      "y": 28,
+      "w": 6
+    },
+    "ȥ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 2,
+      "y": 28,
+      "w": 6
+    },
+    "˙": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 3,
+      "y": 28,
+      "w": 2
+    },
+    "Ꝛ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 4,
+      "y": 28,
+      "w": 6
+    },
+    "ꝛ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 5,
+      "y": 28,
+      "w": 5
+    },
+    "‑": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 6,
+      "y": 28,
+      "w": 4
+    },
+    "⅋": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 7,
+      "y": 28,
+      "w": 6
+    },
+    "⏏": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 8,
+      "y": 28,
+      "w": 6
+    },
+    "⏩": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 9,
+      "y": 28,
+      "w": 7
+    },
+    "⏪": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 10,
+      "y": 28,
+      "w": 7
+    },
+    "⏭": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 11,
+      "y": 28,
+      "w": 8
+    },
+    "⏮": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 12,
+      "y": 28,
+      "w": 8
+    },
+    "⏯": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 13,
+      "y": 28,
+      "w": 5
+    },
+    "⏴": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 14,
+      "y": 28,
+      "w": 4
+    },
+    "⏵": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 15,
+      "y": 28,
+      "w": 4
+    },
+    "⏶": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 0,
+      "y": 29,
+      "w": 6
+    },
+    "⏷": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 1,
+      "y": 29,
+      "w": 6
+    },
+    "⏸": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 2,
+      "y": 29,
+      "w": 2
+    },
+    "⏹": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 3,
+      "y": 29,
+      "w": 6
+    },
+    "⏺": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 4,
+      "y": 29,
+      "w": 6
+    },
+    "⏻": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 5,
+      "y": 29,
+      "w": 8
+    },
+    "⏼": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 6,
+      "y": 29,
+      "w": 8
+    },
+    "⏽": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 7,
+      "y": 29,
+      "w": 2
+    },
+    "⭘": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 8,
+      "y": 29,
+      "w": 8
+    },
+    "▲": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 9,
+      "y": 29,
+      "w": 6
+    },
+    "▶": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 10,
+      "y": 29,
+      "w": 7
+    },
+    "▼": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 11,
+      "y": 29,
+      "w": 6
+    },
+    "◀": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 12,
+      "y": 29,
+      "w": 7
+    },
+    "●": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 13,
+      "y": 29,
+      "w": 5
+    },
+    "◦": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 14,
+      "y": 29,
+      "w": 4
+    },
+    "◘": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 15,
+      "y": 29,
+      "w": 4
+    },
+    "⚓": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 0,
+      "y": 30,
+      "w": 8
+    },
+    "⛨": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 1,
+      "y": 30,
+      "w": 8
+    },
+    "Ĳ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 2,
+      "y": 30,
+      "w": 6
+    },
+    "ĳ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 3,
+      "y": 30,
+      "w": 5
+    },
+    "ǉ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 4,
+      "y": 30,
+      "w": 3
+    },
+    "Ꜩ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 5,
+      "y": 30,
+      "w": 8
+    },
+    "ꜩ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 6,
+      "y": 30,
+      "w": 7
+    },
+    "ꜹ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 7,
+      "y": 30,
+      "w": 8
+    },
+    "ꜻ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 8,
+      "y": 30,
+      "w": 8
+    },
+    "ﬀ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 9,
+      "y": 30,
+      "w": 8
+    },
+    "ﬁ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 10,
+      "y": 30,
+      "w": 6
+    },
+    "ﬂ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 11,
+      "y": 30,
+      "w": 7
+    },
+    "ﬃ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 12,
+      "y": 30,
+      "w": 8
+    },
+    "ﬅ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 13,
+      "y": 30,
+      "w": 6
+    },
+    "�": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 14,
+      "y": 30,
+      "w": 8
+    },
+    "Ե": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 15,
+      "y": 30,
+      "w": 6
+    },
+    "Պ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 0,
+      "y": 31,
+      "w": 6
+    },
+    "ᚠ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 1,
+      "y": 31,
+      "w": 5
+    },
+    "ᚢ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 2,
+      "y": 31,
+      "w": 6
+    },
+    "ᚣ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 3,
+      "y": 31,
+      "w": 6
+    },
+    "ᚤ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 4,
+      "y": 31,
+      "w": 6
+    },
+    "ᚥ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 5,
+      "y": 31,
+      "w": 6
+    },
+    "ᚦ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 6,
+      "y": 31,
+      "w": 5
+    },
+    "ᚧ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 7,
+      "y": 31,
+      "w": 5
+    },
+    "ᚨ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 8,
+      "y": 31,
+      "w": 4
+    },
+    "ᚩ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 9,
+      "y": 31,
+      "w": 5
+    },
+    "ᚪ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 10,
+      "y": 31,
+      "w": 5
+    },
+    "ᚫ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 11,
+      "y": 31,
+      "w": 5
+    },
+    "ᚬ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 12,
+      "y": 31,
+      "w": 6
+    },
+    "ᚭ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 13,
+      "y": 31,
+      "w": 4
+    },
+    "ᚮ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 14,
+      "y": 31,
+      "w": 4
+    },
+    "ᚯ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 15,
+      "y": 31,
+      "w": 6
+    },
+    "ᚰ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 0,
+      "y": 32,
+      "w": 6
+    },
+    "ᚱ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 1,
+      "y": 32,
+      "w": 5
+    },
+    "ᚲ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 2,
+      "y": 32,
+      "w": 4
+    },
+    "ᚳ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 3,
+      "y": 32,
+      "w": 5
+    },
+    "ᚴ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 4,
+      "y": 32,
+      "w": 5
+    },
+    "ᚶ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 5,
+      "y": 32,
+      "w": 6
+    },
+    "ᚷ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 6,
+      "y": 32,
+      "w": 6
+    },
+    "ᚸ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 7,
+      "y": 32,
+      "w": 6
+    },
+    "ᚹ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 8,
+      "y": 32,
+      "w": 5
+    },
+    "ᚺ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 9,
+      "y": 32,
+      "w": 6
+    },
+    "ᚻ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 10,
+      "y": 32,
+      "w": 6
+    },
+    "ᚼ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 11,
+      "y": 32,
+      "w": 6
+    },
+    "ᚽ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 12,
+      "y": 32,
+      "w": 4
+    },
+    "ᚾ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 13,
+      "y": 32,
+      "w": 6
+    },
+    "ᚿ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 14,
+      "y": 32,
+      "w": 4
+    },
+    "ᛀ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 15,
+      "y": 32,
+      "w": 6
+    },
+    "ᛁ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 0,
+      "y": 33,
+      "w": 2
+    },
+    "ᛂ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 1,
+      "y": 33,
+      "w": 4
+    },
+    "ᛃ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 2,
+      "y": 33,
+      "w": 7
+    },
+    "ᛄ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 3,
+      "y": 33,
+      "w": 6
+    },
+    "ᛅ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 4,
+      "y": 33,
+      "w": 6
+    },
+    "ᛆ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 5,
+      "y": 33,
+      "w": 4
+    },
+    "ᛇ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 6,
+      "y": 33,
+      "w": 6
+    },
+    "ᛈ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 7,
+      "y": 33,
+      "w": 5
+    },
+    "ᛉ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 8,
+      "y": 33,
+      "w": 6
+    },
+    "ᛊ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 9,
+      "y": 33,
+      "w": 4
+    },
+    "ᛋ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 10,
+      "y": 33,
+      "w": 6
+    },
+    "ᛌ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 11,
+      "y": 33,
+      "w": 2
+    },
+    "ᛍ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 12,
+      "y": 33,
+      "w": 4
+    },
+    "ᛎ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 13,
+      "y": 33,
+      "w": 6
+    },
+    "ᛏ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 14,
+      "y": 33,
+      "w": 6
+    },
+    "ᛐ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 15,
+      "y": 33,
+      "w": 4
+    },
+    "ᛑ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 0,
+      "y": 34,
+      "w": 5
+    },
+    "ᛒ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 1,
+      "y": 34,
+      "w": 5
+    },
+    "ᛓ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 2,
+      "y": 34,
+      "w": 4
+    },
+    "ᛔ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 3,
+      "y": 34,
+      "w": 5
+    },
+    "ᛕ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 4,
+      "y": 34,
+      "w": 5
+    },
+    "ᛖ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 5,
+      "y": 34,
+      "w": 6
+    },
+    "ᛗ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 6,
+      "y": 34,
+      "w": 6
+    },
+    "ᛘ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 7,
+      "y": 34,
+      "w": 6
+    },
+    "ᛙ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 8,
+      "y": 34,
+      "w": 4
+    },
+    "ᛚ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 9,
+      "y": 34,
+      "w": 4
+    },
+    "ᛛ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 10,
+      "y": 34,
+      "w": 5
+    },
+    "ᛜ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 11,
+      "y": 34,
+      "w": 6
+    },
+    "ᛝ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 12,
+      "y": 34,
+      "w": 6
+    },
+    "ᛞ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 13,
+      "y": 34,
+      "w": 6
+    },
+    "ᛟ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 14,
+      "y": 34,
+      "w": 1
+    },
+    "ᛠ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 15,
+      "y": 34,
+      "w": 8
+    },
+    "ᛡ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 0,
+      "y": 35,
+      "w": 6
+    },
+    "ᛢ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 1,
+      "y": 35,
+      "w": 8
+    },
+    "ᛣ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 2,
+      "y": 35,
+      "w": 6
+    },
+    "ᛤ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 3,
+      "y": 35,
+      "w": 6
+    },
+    "ᛥ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 4,
+      "y": 35,
+      "w": 6
+    },
+    "ᛦ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 5,
+      "y": 35,
+      "w": 6
+    },
+    "ᛧ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 6,
+      "y": 35,
+      "w": 2
+    },
+    "ᛨ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 7,
+      "y": 35,
+      "w": 6
+    },
+    "ᛩ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 8,
+      "y": 35,
+      "w": 5
+    },
+    "ᛪ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 9,
+      "y": 35,
+      "w": 8
+    },
+    "᛫": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 10,
+      "y": 35,
+      "w": 3
+    },
+    "᛬": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 11,
+      "y": 35,
+      "w": 2
+    },
+    "᛭": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 12,
+      "y": 35,
+      "w": 6
+    },
+    "ᛮ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 13,
+      "y": 35,
+      "w": 6
+    },
+    "ᛯ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 14,
+      "y": 35,
+      "w": 6
+    },
+    "ᛰ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 15,
+      "y": 35,
+      "w": 6
+    },
+    "ᛱ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 0,
+      "y": 36,
+      "w": 6
+    },
+    "ᛲ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 1,
+      "y": 36,
+      "w": 6
+    },
+    "ᛳ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 2,
+      "y": 36,
+      "w": 8
+    },
+    "ᛴ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 3,
+      "y": 36,
+      "w": 5
+    },
+    "ᛵ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 4,
+      "y": 36,
+      "w": 3
+    },
+    "ᛶ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 5,
+      "y": 36,
+      "w": 6
+    },
+    "ᛷ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 6,
+      "y": 36,
+      "w": 6
+    },
+    "ᛸ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 7,
+      "y": 36,
+      "w": 6
+    },
+    "☺": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 8,
+      "y": 36,
+      "w": 6
+    },
+    "☻": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 9,
+      "y": 36,
+      "w": 8
+    },
+    "¦": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 10,
+      "y": 36,
+      "w": 2
+    },
+    "☹": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 11,
+      "y": 36,
+      "w": 6
+    },
+    "ך": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 12,
+      "y": 36,
+      "w": 6
+    },
+    "׳": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 13,
+      "y": 36,
+      "w": 3
+    },
+    "״": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 14,
+      "y": 36,
+      "w": 5
+    },
+    "װ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 15,
+      "y": 36,
+      "w": 2
+    },
+    "ױ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 0,
+      "y": 37,
+      "w": 2
+    },
+    "ײ": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 1,
+      "y": 37,
+      "w": 2
+    },
+    "־": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 2,
+      "y": 37,
+      "w": 6
+    },
+    "׃": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 3,
+      "y": 37,
+      "w": 2
+    },
+    "׆": {
+      "img": "/assets/font/nonlatin_european.png",
+      "x": 4,
+      "y": 37,
+      "w": 4
+    },
+    "\u0000": {
+      "img": "/assets/font/ascii.png",
+      "x": 14,
+      "y": 1,
+      "w": 0
+    },
+    "À": {
+      "img": "/assets/font/ascii.png",
+      "x": 0,
+      "y": 0,
+      "w": 6
+    },
+    "Á": {
+      "img": "/assets/font/ascii.png",
+      "x": 1,
+      "y": 0,
+      "w": 6
+    },
+    "Â": {
+      "img": "/assets/font/ascii.png",
+      "x": 2,
+      "y": 0,
+      "w": 6
+    },
+    "Ã": {
+      "img": "/assets/font/accented.png",
+      "x": 3,
+      "y": 0,
+      "w": 6
+    },
+    "Ä": {
+      "img": "/assets/font/ascii.png",
+      "x": 14,
+      "y": 8,
+      "w": 6
+    },
+    "Å": {
+      "img": "/assets/font/ascii.png",
+      "x": 15,
+      "y": 8,
+      "w": 6
+    },
+    "Æ": {
+      "img": "/assets/font/ascii.png",
+      "x": 2,
+      "y": 9,
+      "w": 6
+    },
+    "Ç": {
+      "img": "/assets/font/ascii.png",
+      "x": 0,
+      "y": 8,
+      "w": 6
+    },
+    "È": {
+      "img": "/assets/font/ascii.png",
+      "x": 3,
+      "y": 0,
+      "w": 6
+    },
+    "É": {
+      "img": "/assets/font/ascii.png",
+      "x": 0,
+      "y": 9,
+      "w": 6
+    },
+    "Ê": {
+      "img": "/assets/font/ascii.png",
+      "x": 4,
+      "y": 0,
+      "w": 6
+    },
+    "Ë": {
+      "img": "/assets/font/ascii.png",
+      "x": 5,
+      "y": 0,
+      "w": 6
+    },
+    "Ì": {
+      "img": "/assets/font/accented.png",
+      "x": 12,
+      "y": 0,
+      "w": 4
+    },
+    "Í": {
+      "img": "/assets/font/ascii.png",
+      "x": 6,
+      "y": 0,
+      "w": 4
+    },
+    "Î": {
+      "img": "/assets/font/accented.png",
+      "x": 14,
+      "y": 0,
+      "w": 4
+    },
+    "Ï": {
+      "img": "/assets/font/accented.png",
+      "x": 15,
+      "y": 0,
+      "w": 4
+    },
+    "Ð": {
+      "img": "/assets/font/accented.png",
+      "x": 0,
+      "y": 1,
+      "w": 7
+    },
+    "Ñ": {
+      "img": "/assets/font/ascii.png",
+      "x": 5,
+      "y": 10,
+      "w": 6
+    },
+    "Ò": {
+      "img": "/assets/font/accented.png",
+      "x": 2,
+      "y": 1,
+      "w": 6
+    },
+    "Ó": {
+      "img": "/assets/font/ascii.png",
+      "x": 7,
+      "y": 0,
+      "w": 6
+    },
+    "Ô": {
+      "img": "/assets/font/ascii.png",
+      "x": 8,
+      "y": 0,
+      "w": 6
+    },
+    "Õ": {
+      "img": "/assets/font/ascii.png",
+      "x": 9,
+      "y": 0,
+      "w": 6
+    },
+    "Ö": {
+      "img": "/assets/font/ascii.png",
+      "x": 9,
+      "y": 9,
+      "w": 6
+    },
+    "Ù": {
+      "img": "/assets/font/accented.png",
+      "x": 7,
+      "y": 1,
+      "w": 6
+    },
+    "Ú": {
+      "img": "/assets/font/ascii.png",
+      "x": 10,
+      "y": 0,
+      "w": 6
+    },
+    "Û": {
+      "img": "/assets/font/accented.png",
+      "x": 9,
+      "y": 1,
+      "w": 6
+    },
+    "Ü": {
+      "img": "/assets/font/ascii.png",
+      "x": 10,
+      "y": 9,
+      "w": 6
+    },
+    "Ý": {
+      "img": "/assets/font/accented.png",
+      "x": 11,
+      "y": 1,
+      "w": 6
+    },
+    "à": {
+      "img": "/assets/font/ascii.png",
+      "x": 5,
+      "y": 8,
+      "w": 6
+    },
+    "á": {
+      "img": "/assets/font/ascii.png",
+      "x": 0,
+      "y": 10,
+      "w": 6
+    },
+    "â": {
+      "img": "/assets/font/ascii.png",
+      "x": 3,
+      "y": 8,
+      "w": 6
+    },
+    "ã": {
+      "img": "/assets/font/ascii.png",
+      "x": 12,
+      "y": 0,
+      "w": 6
+    },
+    "ä": {
+      "img": "/assets/font/ascii.png",
+      "x": 4,
+      "y": 8,
+      "w": 6
+    },
+    "å": {
+      "img": "/assets/font/ascii.png",
+      "x": 6,
+      "y": 8,
+      "w": 6
+    },
+    "æ": {
+      "img": "/assets/font/ascii.png",
+      "x": 1,
+      "y": 9,
+      "w": 6
+    },
+    "ç": {
+      "img": "/assets/font/ascii.png",
+      "x": 7,
+      "y": 8,
+      "w": 6
+    },
+    "ì": {
+      "img": "/assets/font/ascii.png",
+      "x": 13,
+      "y": 8,
+      "w": 3
+    },
+    "í": {
+      "img": "/assets/font/ascii.png",
+      "x": 1,
+      "y": 10,
+      "w": 3
+    },
+    "î": {
+      "img": "/assets/font/ascii.png",
+      "x": 12,
+      "y": 8,
+      "w": 6
+    },
+    "ï": {
+      "img": "/assets/font/ascii.png",
+      "x": 11,
+      "y": 8,
+      "w": 4
+    },
+    "ñ": {
+      "img": "/assets/font/ascii.png",
+      "x": 4,
+      "y": 10,
+      "w": 6
+    },
+    "ò": {
+      "img": "/assets/font/ascii.png",
+      "x": 5,
+      "y": 9,
+      "w": 6
+    },
+    "ó": {
+      "img": "/assets/font/ascii.png",
+      "x": 2,
+      "y": 10,
+      "w": 6
+    },
+    "ô": {
+      "img": "/assets/font/ascii.png",
+      "x": 3,
+      "y": 9,
+      "w": 6
+    },
+    "õ": {
+      "img": "/assets/font/ascii.png",
+      "x": 13,
+      "y": 0,
+      "w": 6
+    },
+    "ö": {
+      "img": "/assets/font/ascii.png",
+      "x": 4,
+      "y": 9,
+      "w": 6
+    },
+    "ù": {
+      "img": "/assets/font/ascii.png",
+      "x": 7,
+      "y": 9,
+      "w": 6
+    },
+    "ú": {
+      "img": "/assets/font/ascii.png",
+      "x": 3,
+      "y": 10,
+      "w": 6
+    },
+    "û": {
+      "img": "/assets/font/ascii.png",
+      "x": 6,
+      "y": 9,
+      "w": 6
+    },
+    "ü": {
+      "img": "/assets/font/ascii.png",
+      "x": 1,
+      "y": 8,
+      "w": 6
+    },
+    "ý": {
+      "img": "/assets/font/accented.png",
+      "x": 2,
+      "y": 3,
+      "w": 9
+    },
+    "ÿ": {
+      "img": "/assets/font/ascii.png",
+      "x": 8,
+      "y": 9,
+      "w": 6
+    },
+    "Ā": {
+      "img": "/assets/font/accented.png",
+      "x": 4,
+      "y": 3,
+      "w": 1
+    },
+    "ā": {
+      "img": "/assets/font/accented.png",
+      "x": 5,
+      "y": 3,
+      "w": 2
+    },
+    "Ă": {
+      "img": "/assets/font/accented.png",
+      "x": 6,
+      "y": 3,
+      "w": 4
+    },
+    "ă": {
+      "img": "/assets/font/accented.png",
+      "x": 7,
+      "y": 3,
+      "w": 4
+    },
+    "Ą": {
+      "img": "/assets/font/accented.png",
+      "x": 8,
+      "y": 3,
+      "w": 6
+    },
+    "ą": {
+      "img": "/assets/font/accented.png",
+      "x": 9,
+      "y": 3,
+      "w": 6
+    },
+    "Ć": {
+      "img": "/assets/font/accented.png",
+      "x": 10,
+      "y": 3,
+      "w": 6
+    },
+    "ć": {
+      "img": "/assets/font/accented.png",
+      "x": 11,
+      "y": 3,
+      "w": 6
+    },
+    "Ĉ": {
+      "img": "/assets/font/accented.png",
+      "x": 12,
+      "y": 3,
+      "w": 6
+    },
+    "ĉ": {
+      "img": "/assets/font/accented.png",
+      "x": 13,
+      "y": 3,
+      "w": 6
+    },
+    "Ċ": {
+      "img": "/assets/font/accented.png",
+      "x": 14,
+      "y": 3,
+      "w": 6
+    },
+    "ċ": {
+      "img": "/assets/font/accented.png",
+      "x": 15,
+      "y": 3,
+      "w": 6
+    },
+    "Č": {
+      "img": "/assets/font/accented.png",
+      "x": 0,
+      "y": 4,
+      "w": 6
+    },
+    "č": {
+      "img": "/assets/font/accented.png",
+      "x": 1,
+      "y": 4,
+      "w": 3
+    },
+    "Ď": {
+      "img": "/assets/font/accented.png",
+      "x": 2,
+      "y": 4,
+      "w": 6
+    },
+    "ď": {
+      "img": "/assets/font/accented.png",
+      "x": 3,
+      "y": 4,
+      "w": 6
+    },
+    "Đ": {
+      "img": "/assets/font/accented.png",
+      "x": 4,
+      "y": 4,
+      "w": 6
+    },
+    "đ": {
+      "img": "/assets/font/accented.png",
+      "x": 5,
+      "y": 4,
+      "w": 6
+    },
+    "Ē": {
+      "img": "/assets/font/accented.png",
+      "x": 6,
+      "y": 4,
+      "w": 6
+    },
+    "ē": {
+      "img": "/assets/font/accented.png",
+      "x": 7,
+      "y": 4,
+      "w": 6
+    },
+    "Ĕ": {
+      "img": "/assets/font/accented.png",
+      "x": 8,
+      "y": 4,
+      "w": 6
+    },
+    "ĕ": {
+      "img": "/assets/font/accented.png",
+      "x": 9,
+      "y": 4,
+      "w": 6
+    },
+    "Ė": {
+      "img": "/assets/font/accented.png",
+      "x": 10,
+      "y": 4,
+      "w": 6
+    },
+    "ė": {
+      "img": "/assets/font/accented.png",
+      "x": 11,
+      "y": 4,
+      "w": 6
+    },
+    "Ę": {
+      "img": "/assets/font/accented.png",
+      "x": 12,
+      "y": 4,
+      "w": 6
+    },
+    "ę": {
+      "img": "/assets/font/accented.png",
+      "x": 13,
+      "y": 4,
+      "w": 6
+    },
+    "Ě": {
+      "img": "/assets/font/accented.png",
+      "x": 14,
+      "y": 4,
+      "w": 6
+    },
+    "ě": {
+      "img": "/assets/font/accented.png",
+      "x": 15,
+      "y": 4,
+      "w": 6
+    },
+    "Ĝ": {
+      "img": "/assets/font/accented.png",
+      "x": 0,
+      "y": 5,
+      "w": 6
+    },
+    "ĝ": {
+      "img": "/assets/font/accented.png",
+      "x": 1,
+      "y": 5,
+      "w": 1
+    },
+    "Ḡ": {
+      "img": "/assets/font/accented.png",
+      "x": 2,
+      "y": 5,
+      "w": 6
+    },
+    "ḡ": {
+      "img": "/assets/font/accented.png",
+      "x": 3,
+      "y": 5,
+      "w": 6
+    },
+    "Ğ": {
+      "img": "/assets/font/accented.png",
+      "x": 4,
+      "y": 5,
+      "w": 7
+    },
+    "ğ": {
+      "img": "/assets/font/ascii.png",
+      "x": 14,
+      "y": 0,
+      "w": 6
+    },
+    "Ġ": {
+      "img": "/assets/font/accented.png",
+      "x": 6,
+      "y": 5,
+      "w": 6
+    },
+    "ġ": {
+      "img": "/assets/font/accented.png",
+      "x": 7,
+      "y": 5,
+      "w": 1
+    },
+    "Ģ": {
+      "img": "/assets/font/accented.png",
+      "x": 8,
+      "y": 5,
+      "w": 6
+    },
+    "ģ": {
+      "img": "/assets/font/accented.png",
+      "x": 9,
+      "y": 5,
+      "w": 1
+    },
+    "Ĥ": {
+      "img": "/assets/font/accented.png",
+      "x": 10,
+      "y": 5,
+      "w": 6
+    },
+    "ĥ": {
+      "img": "/assets/font/accented.png",
+      "x": 11,
+      "y": 5,
+      "w": 1
+    },
+    "Ħ": {
+      "img": "/assets/font/accented.png",
+      "x": 12,
+      "y": 5,
+      "w": 6
+    },
+    "ħ": {
+      "img": "/assets/font/accented.png",
+      "x": 13,
+      "y": 5,
+      "w": 1
+    },
+    "Ĩ": {
+      "img": "/assets/font/accented.png",
+      "x": 14,
+      "y": 5,
+      "w": 6
+    },
+    "ĩ": {
+      "img": "/assets/font/accented.png",
+      "x": 15,
+      "y": 5,
+      "w": 1
+    },
+    "Ī": {
+      "img": "/assets/font/accented.png",
+      "x": 0,
+      "y": 6,
+      "w": 6
+    },
+    "ī": {
+      "img": "/assets/font/accented.png",
+      "x": 1,
+      "y": 6,
+      "w": 6
+    },
+    "Ĭ": {
+      "img": "/assets/font/accented.png",
+      "x": 2,
+      "y": 6,
+      "w": 6
+    },
+    "ĭ": {
+      "img": "/assets/font/accented.png",
+      "x": 3,
+      "y": 6,
+      "w": 6
+    },
+    "Į": {
+      "img": "/assets/font/accented.png",
+      "x": 4,
+      "y": 6,
+      "w": 7
+    },
+    "į": {
+      "img": "/assets/font/accented.png",
+      "x": 5,
+      "y": 6,
+      "w": 6
+    },
+    "İ": {
+      "img": "/assets/font/ascii.png",
+      "x": 15,
+      "y": 0,
+      "w": 4
+    },
+    "ı": {
+      "img": "/assets/font/ascii.png",
+      "x": 0,
+      "y": 1,
+      "w": 4
+    },
+    "Ĵ": {
+      "img": "/assets/font/accented.png",
+      "x": 8,
+      "y": 6,
+      "w": 6
+    },
+    "ĵ": {
+      "img": "/assets/font/accented.png",
+      "x": 9,
+      "y": 6,
+      "w": 6
+    },
+    "Ķ": {
+      "img": "/assets/font/accented.png",
+      "x": 10,
+      "y": 6,
+      "w": 6
+    },
+    "ķ": {
+      "img": "/assets/font/accented.png",
+      "x": 11,
+      "y": 6,
+      "w": 6
+    },
+    "Ĺ": {
+      "img": "/assets/font/accented.png",
+      "x": 12,
+      "y": 6,
+      "w": 6
+    },
+    "ĺ": {
+      "img": "/assets/font/accented.png",
+      "x": 13,
+      "y": 6,
+      "w": 6
+    },
+    "Ļ": {
+      "img": "/assets/font/accented.png",
+      "x": 14,
+      "y": 6,
+      "w": 6
+    },
+    "ļ": {
+      "img": "/assets/font/accented.png",
+      "x": 15,
+      "y": 6,
+      "w": 6
+    },
+    "Ľ": {
+      "img": "/assets/font/accented.png",
+      "x": 0,
+      "y": 7,
+      "w": 6
+    },
+    "ľ": {
+      "img": "/assets/font/accented.png",
+      "x": 1,
+      "y": 7,
+      "w": 6
+    },
+    "Ŀ": {
+      "img": "/assets/font/accented.png",
+      "x": 2,
+      "y": 7,
+      "w": 6
+    },
+    "ŀ": {
+      "img": "/assets/font/accented.png",
+      "x": 3,
+      "y": 7,
+      "w": 6
+    },
+    "Ł": {
+      "img": "/assets/font/accented.png",
+      "x": 4,
+      "y": 7,
+      "w": 6
+    },
+    "ł": {
+      "img": "/assets/font/accented.png",
+      "x": 5,
+      "y": 7,
+      "w": 6
+    },
+    "Ń": {
+      "img": "/assets/font/accented.png",
+      "x": 6,
+      "y": 7,
+      "w": 6
+    },
+    "ń": {
+      "img": "/assets/font/accented.png",
+      "x": 7,
+      "y": 7,
+      "w": 6
+    },
+    "Ņ": {
+      "img": "/assets/font/accented.png",
+      "x": 8,
+      "y": 7,
+      "w": 6
+    },
+    "ņ": {
+      "img": "/assets/font/accented.png",
+      "x": 9,
+      "y": 7,
+      "w": 6
+    },
+    "Ň": {
+      "img": "/assets/font/accented.png",
+      "x": 10,
+      "y": 7,
+      "w": 6
+    },
+    "ň": {
+      "img": "/assets/font/accented.png",
+      "x": 11,
+      "y": 7,
+      "w": 6
+    },
+    "Ŋ": {
+      "img": "/assets/font/accented.png",
+      "x": 12,
+      "y": 7,
+      "w": 8
+    },
+    "ŋ": {
+      "img": "/assets/font/accented.png",
+      "x": 13,
+      "y": 7,
+      "w": 7
+    },
+    "Ō": {
+      "img": "/assets/font/accented.png",
+      "x": 14,
+      "y": 7,
+      "w": 4
+    },
+    "ō": {
+      "img": "/assets/font/accented.png",
+      "x": 15,
+      "y": 7,
+      "w": 4
+    },
+    "Ŏ": {
+      "img": "/assets/font/accented.png",
+      "x": 0,
+      "y": 8,
+      "w": 4
+    },
+    "ŏ": {
+      "img": "/assets/font/accented.png",
+      "x": 1,
+      "y": 8,
+      "w": 4
+    },
+    "Ő": {
+      "img": "/assets/font/accented.png",
+      "x": 2,
+      "y": 8,
+      "w": 5
+    },
+    "ő": {
+      "img": "/assets/font/accented.png",
+      "x": 3,
+      "y": 8,
+      "w": 5
+    },
+    "Œ": {
+      "img": "/assets/font/ascii.png",
+      "x": 1,
+      "y": 1,
+      "w": 6
+    },
+    "œ": {
+      "img": "/assets/font/ascii.png",
+      "x": 2,
+      "y": 1,
+      "w": 7
+    },
+    "Ŕ": {
+      "img": "/assets/font/accented.png",
+      "x": 6,
+      "y": 8,
+      "w": 4
+    },
+    "ŕ": {
+      "img": "/assets/font/accented.png",
+      "x": 7,
+      "y": 8,
+      "w": 2
+    },
+    "Ŗ": {
+      "img": "/assets/font/accented.png",
+      "x": 8,
+      "y": 8,
+      "w": 6
+    },
+    "ŗ": {
+      "img": "/assets/font/accented.png",
+      "x": 9,
+      "y": 8,
+      "w": 6
+    },
+    "Ř": {
+      "img": "/assets/font/accented.png",
+      "x": 10,
+      "y": 8,
+      "w": 6
+    },
+    "ř": {
+      "img": "/assets/font/accented.png",
+      "x": 11,
+      "y": 8,
+      "w": 5
+    },
+    "Ś": {
+      "img": "/assets/font/accented.png",
+      "x": 12,
+      "y": 8,
+      "w": 2
+    },
+    "ś": {
+      "img": "/assets/font/accented.png",
+      "x": 13,
+      "y": 8,
+      "w": 3
+    },
+    "Ŝ": {
+      "img": "/assets/font/accented.png",
+      "x": 14,
+      "y": 8,
+      "w": 2
+    },
+    "ŝ": {
+      "img": "/assets/font/accented.png",
+      "x": 15,
+      "y": 8,
+      "w": 2
+    },
+    "Ş": {
+      "img": "/assets/font/ascii.png",
+      "x": 3,
+      "y": 1,
+      "w": 6
+    },
+    "ş": {
+      "img": "/assets/font/ascii.png",
+      "x": 4,
+      "y": 1,
+      "w": 6
+    },
+    "Š": {
+      "img": "/assets/font/accented.png",
+      "x": 2,
+      "y": 9,
+      "w": 4
+    },
+    "š": {
+      "img": "/assets/font/accented.png",
+      "x": 3,
+      "y": 9,
+      "w": 3
+    },
+    "Ţ": {
+      "img": "/assets/font/accented.png",
+      "x": 4,
+      "y": 9,
+      "w": 5
+    },
+    "ţ": {
+      "img": "/assets/font/accented.png",
+      "x": 5,
+      "y": 9,
+      "w": 3
+    },
+    "Ť": {
+      "img": "/assets/font/accented.png",
+      "x": 6,
+      "y": 9,
+      "w": 6
+    },
+    "ť": {
+      "img": "/assets/font/accented.png",
+      "x": 7,
+      "y": 9,
+      "w": 5
+    },
+    "Ŧ": {
+      "img": "/assets/font/accented.png",
+      "x": 8,
+      "y": 9,
+      "w": 6
+    },
+    "ŧ": {
+      "img": "/assets/font/accented.png",
+      "x": 9,
+      "y": 9,
+      "w": 6
+    },
+    "Ũ": {
+      "img": "/assets/font/accented.png",
+      "x": 10,
+      "y": 9,
+      "w": 6
+    },
+    "ũ": {
+      "img": "/assets/font/accented.png",
+      "x": 11,
+      "y": 9,
+      "w": 5
+    },
+    "Ū": {
+      "img": "/assets/font/accented.png",
+      "x": 12,
+      "y": 9,
+      "w": 6
+    },
+    "ū": {
+      "img": "/assets/font/accented.png",
+      "x": 13,
+      "y": 9,
+      "w": 5
+    },
+    "Ŭ": {
+      "img": "/assets/font/accented.png",
+      "x": 14,
+      "y": 9,
+      "w": 6
+    },
+    "ŭ": {
+      "img": "/assets/font/accented.png",
+      "x": 15,
+      "y": 9,
+      "w": 5
+    },
+    "Ů": {
+      "img": "/assets/font/accented.png",
+      "x": 0,
+      "y": 10,
+      "w": 6
+    },
+    "ů": {
+      "img": "/assets/font/accented.png",
+      "x": 1,
+      "y": 10,
+      "w": 3
+    },
+    "Ű": {
+      "img": "/assets/font/accented.png",
+      "x": 2,
+      "y": 10,
+      "w": 6
+    },
+    "ű": {
+      "img": "/assets/font/accented.png",
+      "x": 3,
+      "y": 10,
+      "w": 4
+    },
+    "Ų": {
+      "img": "/assets/font/accented.png",
+      "x": 4,
+      "y": 10,
+      "w": 7
+    },
+    "ų": {
+      "img": "/assets/font/accented.png",
+      "x": 5,
+      "y": 10,
+      "w": 4
+    },
+    "Ŵ": {
+      "img": "/assets/font/ascii.png",
+      "x": 5,
+      "y": 1,
+      "w": 6
+    },
+    "ŵ": {
+      "img": "/assets/font/ascii.png",
+      "x": 6,
+      "y": 1,
+      "w": 6
+    },
+    "Ŷ": {
+      "img": "/assets/font/accented.png",
+      "x": 8,
+      "y": 10,
+      "w": 6
+    },
+    "ŷ": {
+      "img": "/assets/font/accented.png",
+      "x": 9,
+      "y": 10,
+      "w": 4
+    },
+    "Ÿ": {
+      "img": "/assets/font/accented.png",
+      "x": 10,
+      "y": 10,
+      "w": 6
+    },
+    "Ź": {
+      "img": "/assets/font/accented.png",
+      "x": 11,
+      "y": 10,
+      "w": 3
+    },
+    "ź": {
+      "img": "/assets/font/accented.png",
+      "x": 12,
+      "y": 10,
+      "w": 2
+    },
+    "Ż": {
+      "img": "/assets/font/accented.png",
+      "x": 13,
+      "y": 10,
+      "w": 2
+    },
+    "ż": {
+      "img": "/assets/font/accented.png",
+      "x": 14,
+      "y": 10,
+      "w": 6
+    },
+    "Ž": {
+      "img": "/assets/font/accented.png",
+      "x": 15,
+      "y": 10,
+      "w": 6
+    },
+    "ž": {
+      "img": "/assets/font/ascii.png",
+      "x": 7,
+      "y": 1,
+      "w": 6
+    },
+    "Ǽ": {
+      "img": "/assets/font/accented.png",
+      "x": 1,
+      "y": 11,
+      "w": 6
+    },
+    "ǽ": {
+      "img": "/assets/font/accented.png",
+      "x": 2,
+      "y": 11,
+      "w": 6
+    },
+    "Ǿ": {
+      "img": "/assets/font/accented.png",
+      "x": 3,
+      "y": 11,
+      "w": 6
+    },
+    "ǿ": {
+      "img": "/assets/font/accented.png",
+      "x": 4,
+      "y": 11,
+      "w": 9
+    },
+    "Ș": {
+      "img": "/assets/font/accented.png",
+      "x": 5,
+      "y": 11,
+      "w": 9
+    },
+    "ș": {
+      "img": "/assets/font/accented.png",
+      "x": 6,
+      "y": 11,
+      "w": 6
+    },
+    "Ț": {
+      "img": "/assets/font/accented.png",
+      "x": 7,
+      "y": 11,
+      "w": 6
+    },
+    "ț": {
+      "img": "/assets/font/accented.png",
+      "x": 8,
+      "y": 11,
+      "w": 6
+    },
+    "Ά": {
+      "img": "/assets/font/accented.png",
+      "x": 9,
+      "y": 11,
+      "w": 6
+    },
+    "Έ": {
+      "img": "/assets/font/accented.png",
+      "x": 10,
+      "y": 11,
+      "w": 6
+    },
+    "Ή": {
+      "img": "/assets/font/accented.png",
+      "x": 11,
+      "y": 11,
+      "w": 6
+    },
+    "Ί": {
+      "img": "/assets/font/accented.png",
+      "x": 12,
+      "y": 11,
+      "w": 6
+    },
+    "Ό": {
+      "img": "/assets/font/accented.png",
+      "x": 13,
+      "y": 11,
+      "w": 6
+    },
+    "Ύ": {
+      "img": "/assets/font/accented.png",
+      "x": 14,
+      "y": 11,
+      "w": 6
+    },
+    "Ώ": {
+      "img": "/assets/font/accented.png",
+      "x": 15,
+      "y": 11,
+      "w": 6
+    },
+    "ΐ": {
+      "img": "/assets/font/accented.png",
+      "x": 0,
+      "y": 12,
+      "w": 6
+    },
+    "Ϊ": {
+      "img": "/assets/font/accented.png",
+      "x": 1,
+      "y": 12,
+      "w": 6
+    },
+    "Ϋ": {
+      "img": "/assets/font/accented.png",
+      "x": 2,
+      "y": 12,
+      "w": 6
+    },
+    "ά": {
+      "img": "/assets/font/accented.png",
+      "x": 3,
+      "y": 12,
+      "w": 6
+    },
+    "έ": {
+      "img": "/assets/font/accented.png",
+      "x": 4,
+      "y": 12,
+      "w": 6
+    },
+    "ή": {
+      "img": "/assets/font/accented.png",
+      "x": 5,
+      "y": 12,
+      "w": 4
+    },
+    "ί": {
+      "img": "/assets/font/accented.png",
+      "x": 6,
+      "y": 12,
+      "w": 6
+    },
+    "ΰ": {
+      "img": "/assets/font/accented.png",
+      "x": 7,
+      "y": 12,
+      "w": 5
+    },
+    "ϊ": {
+      "img": "/assets/font/accented.png",
+      "x": 8,
+      "y": 12,
+      "w": 6
+    },
+    "ϋ": {
+      "img": "/assets/font/accented.png",
+      "x": 9,
+      "y": 12,
+      "w": 4
+    },
+    "ό": {
+      "img": "/assets/font/accented.png",
+      "x": 10,
+      "y": 12,
+      "w": 6
+    },
+    "ύ": {
+      "img": "/assets/font/accented.png",
+      "x": 11,
+      "y": 12,
+      "w": 6
+    },
+    "ώ": {
+      "img": "/assets/font/accented.png",
+      "x": 12,
+      "y": 12,
+      "w": 6
+    },
+    "Ѐ": {
+      "img": "/assets/font/accented.png",
+      "x": 13,
+      "y": 12,
+      "w": 6
+    },
+    "Ё": {
+      "img": "/assets/font/accented.png",
+      "x": 14,
+      "y": 12,
+      "w": 6
+    },
+    "Ѓ": {
+      "img": "/assets/font/accented.png",
+      "x": 15,
+      "y": 12,
+      "w": 6
+    },
+    "Ї": {
+      "img": "/assets/font/accented.png",
+      "x": 0,
+      "y": 13,
+      "w": 6
+    },
+    "Ќ": {
+      "img": "/assets/font/accented.png",
+      "x": 1,
+      "y": 13,
+      "w": 6
+    },
+    "Ѝ": {
+      "img": "/assets/font/accented.png",
+      "x": 2,
+      "y": 13,
+      "w": 6
+    },
+    "Ў": {
+      "img": "/assets/font/accented.png",
+      "x": 3,
+      "y": 13,
+      "w": 6
+    },
+    "Й": {
+      "img": "/assets/font/accented.png",
+      "x": 4,
+      "y": 13,
+      "w": 2
+    },
+    "й": {
+      "img": "/assets/font/accented.png",
+      "x": 5,
+      "y": 13,
+      "w": 4
+    },
+    "ѐ": {
+      "img": "/assets/font/accented.png",
+      "x": 6,
+      "y": 13,
+      "w": 6
+    },
+    "ё": {
+      "img": "/assets/font/accented.png",
+      "x": 7,
+      "y": 13,
+      "w": 6
+    },
+    "ђ": {
+      "img": "/assets/font/accented.png",
+      "x": 8,
+      "y": 13,
+      "w": 6
+    },
+    "ѓ": {
+      "img": "/assets/font/accented.png",
+      "x": 9,
+      "y": 13,
+      "w": 6
+    },
+    "ї": {
+      "img": "/assets/font/accented.png",
+      "x": 10,
+      "y": 13,
+      "w": 6
+    },
+    "ћ": {
+      "img": "/assets/font/accented.png",
+      "x": 11,
+      "y": 13,
+      "w": 6
+    },
+    "ќ": {
+      "img": "/assets/font/accented.png",
+      "x": 12,
+      "y": 13,
+      "w": 6
+    },
+    "ѝ": {
+      "img": "/assets/font/accented.png",
+      "x": 13,
+      "y": 13,
+      "w": 6
+    },
+    "ў": {
+      "img": "/assets/font/accented.png",
+      "x": 14,
+      "y": 13,
+      "w": 6
+    },
+    "џ": {
+      "img": "/assets/font/accented.png",
+      "x": 15,
+      "y": 13,
+      "w": 6
+    },
+    "Ґ": {
+      "img": "/assets/font/accented.png",
+      "x": 0,
+      "y": 14,
+      "w": 6
+    },
+    "ґ": {
+      "img": "/assets/font/accented.png",
+      "x": 1,
+      "y": 14,
+      "w": 7
+    },
+    "Ḃ": {
+      "img": "/assets/font/accented.png",
+      "x": 2,
+      "y": 14,
+      "w": 7
+    },
+    "ḃ": {
+      "img": "/assets/font/accented.png",
+      "x": 3,
+      "y": 14,
+      "w": 6
+    },
+    "Ḋ": {
+      "img": "/assets/font/accented.png",
+      "x": 4,
+      "y": 14,
+      "w": 6
+    },
+    "ḋ": {
+      "img": "/assets/font/accented.png",
+      "x": 5,
+      "y": 14,
+      "w": 6
+    },
+    "Ḟ": {
+      "img": "/assets/font/accented.png",
+      "x": 6,
+      "y": 14,
+      "w": 6
+    },
+    "ḟ": {
+      "img": "/assets/font/accented.png",
+      "x": 7,
+      "y": 14,
+      "w": 6
+    },
+    "Ḣ": {
+      "img": "/assets/font/accented.png",
+      "x": 8,
+      "y": 14,
+      "w": 1
+    },
+    "ḣ": {
+      "img": "/assets/font/accented.png",
+      "x": 9,
+      "y": 14,
+      "w": 6
+    },
+    "Ḱ": {
+      "img": "/assets/font/accented.png",
+      "x": 10,
+      "y": 14,
+      "w": 1
+    },
+    "ḱ": {
+      "img": "/assets/font/accented.png",
+      "x": 11,
+      "y": 14,
+      "w": 6
+    },
+    "Ṁ": {
+      "img": "/assets/font/accented.png",
+      "x": 12,
+      "y": 14,
+      "w": 6
+    },
+    "ṁ": {
+      "img": "/assets/font/accented.png",
+      "x": 13,
+      "y": 14,
+      "w": 6
+    },
+    "Ṗ": {
+      "img": "/assets/font/accented.png",
+      "x": 14,
+      "y": 14,
+      "w": 6
+    },
+    "ṗ": {
+      "img": "/assets/font/accented.png",
+      "x": 15,
+      "y": 14,
+      "w": 6
+    },
+    "Ṡ": {
+      "img": "/assets/font/accented.png",
+      "x": 0,
+      "y": 15,
+      "w": 6
+    },
+    "ṡ": {
+      "img": "/assets/font/accented.png",
+      "x": 1,
+      "y": 15,
+      "w": 9
+    },
+    "Ṫ": {
+      "img": "/assets/font/accented.png",
+      "x": 2,
+      "y": 15,
+      "w": 9
+    },
+    "ṫ": {
+      "img": "/assets/font/accented.png",
+      "x": 3,
+      "y": 15,
+      "w": 6
+    },
+    "Ẁ": {
+      "img": "/assets/font/accented.png",
+      "x": 4,
+      "y": 15,
+      "w": 6
+    },
+    "ẁ": {
+      "img": "/assets/font/accented.png",
+      "x": 5,
+      "y": 15,
+      "w": 6
+    },
+    "Ẃ": {
+      "img": "/assets/font/accented.png",
+      "x": 6,
+      "y": 15,
+      "w": 6
+    },
+    "ẃ": {
+      "img": "/assets/font/accented.png",
+      "x": 7,
+      "y": 15,
+      "w": 6
+    },
+    "Ẅ": {
+      "img": "/assets/font/accented.png",
+      "x": 8,
+      "y": 15,
+      "w": 4
+    },
+    "ẅ": {
+      "img": "/assets/font/accented.png",
+      "x": 9,
+      "y": 15,
+      "w": 2
+    },
+    "Ỳ": {
+      "img": "/assets/font/accented.png",
+      "x": 10,
+      "y": 15,
+      "w": 2
+    },
+    "ỳ": {
+      "img": "/assets/font/accented.png",
+      "x": 11,
+      "y": 15,
+      "w": 2
+    },
+    "è": {
+      "img": "/assets/font/ascii.png",
+      "x": 10,
+      "y": 8,
+      "w": 6
+    },
+    "é": {
+      "img": "/assets/font/ascii.png",
+      "x": 2,
+      "y": 8,
+      "w": 6
+    },
+    "ê": {
+      "img": "/assets/font/ascii.png",
+      "x": 8,
+      "y": 8,
+      "w": 6
+    },
+    "ë": {
+      "img": "/assets/font/ascii.png",
+      "x": 9,
+      "y": 8,
+      "w": 6
+    },
+    "ŉ": {
+      "img": "/assets/font/accented.png",
+      "x": 0,
+      "y": 16,
+      "w": 2
+    },
+    "ǧ": {
+      "img": "/assets/font/accented.png",
+      "x": 1,
+      "y": 16,
+      "w": 4
+    },
+    "ǫ": {
+      "img": "/assets/font/accented.png",
+      "x": 2,
+      "y": 16,
+      "w": 6
+    },
+    "Џ": {
+      "img": "/assets/font/accented.png",
+      "x": 3,
+      "y": 16,
+      "w": 6
+    },
+    "ḍ": {
+      "img": "/assets/font/accented.png",
+      "x": 4,
+      "y": 16,
+      "w": 6
+    },
+    "ḥ": {
+      "img": "/assets/font/accented.png",
+      "x": 5,
+      "y": 16,
+      "w": 6
+    },
+    "ṛ": {
+      "img": "/assets/font/accented.png",
+      "x": 6,
+      "y": 16,
+      "w": 3
+    },
+    "ṭ": {
+      "img": "/assets/font/accented.png",
+      "x": 7,
+      "y": 16,
+      "w": 2
+    },
+    "Ẓ": {
+      "img": "/assets/font/accented.png",
+      "x": 8,
+      "y": 16,
+      "w": 4
+    },
+    "Ị": {
+      "img": "/assets/font/accented.png",
+      "x": 9,
+      "y": 16,
+      "w": 3
+    },
+    "ị": {
+      "img": "/assets/font/accented.png",
+      "x": 10,
+      "y": 16,
+      "w": 6
+    },
+    "Ọ": {
+      "img": "/assets/font/accented.png",
+      "x": 11,
+      "y": 16,
+      "w": 2
+    },
+    "ọ": {
+      "img": "/assets/font/accented.png",
+      "x": 12,
+      "y": 16,
+      "w": 3
+    },
+    "Ụ": {
+      "img": "/assets/font/accented.png",
+      "x": 13,
+      "y": 16,
+      "w": 6
+    },
+    "ụ": {
+      "img": "/assets/font/accented.png",
+      "x": 14,
+      "y": 16,
+      "w": 6
+    },
+    "№": {
+      "img": "/assets/font/accented.png",
+      "x": 15,
+      "y": 16,
+      "w": 6
+    },
+    "ȇ": {
+      "img": "/assets/font/ascii.png",
+      "x": 8,
+      "y": 1,
+      "w": 6
+    },
+    "Ɣ": {
+      "img": "/assets/font/accented.png",
+      "x": 1,
+      "y": 17,
+      "w": 6
+    },
+    "ɣ": {
+      "img": "/assets/font/accented.png",
+      "x": 2,
+      "y": 17,
+      "w": 6
+    },
+    "ʃ": {
+      "img": "/assets/font/accented.png",
+      "x": 3,
+      "y": 17,
+      "w": 6
+    },
+    "⁇": {
+      "img": "/assets/font/accented.png",
+      "x": 4,
+      "y": 17,
+      "w": 6
+    },
+    "Ǳ": {
+      "img": "/assets/font/accented.png",
+      "x": 5,
+      "y": 17,
+      "w": 6
+    },
+    "ǲ": {
+      "img": "/assets/font/accented.png",
+      "x": 6,
+      "y": 17,
+      "w": 1
+    },
+    "ǳ": {
+      "img": "/assets/font/accented.png",
+      "x": 7,
+      "y": 17,
+      "w": 1
+    },
+    "Ǆ": {
+      "img": "/assets/font/accented.png",
+      "x": 8,
+      "y": 17,
+      "w": 5
+    },
+    "ǅ": {
+      "img": "/assets/font/accented.png",
+      "x": 9,
+      "y": 17,
+      "w": 5
+    },
+    "ǆ": {
+      "img": "/assets/font/accented.png",
+      "x": 10,
+      "y": 17,
+      "w": 5
+    },
+    "Ǉ": {
+      "img": "/assets/font/accented.png",
+      "x": 11,
+      "y": 17,
+      "w": 5
+    },
+    "ǈ": {
+      "img": "/assets/font/accented.png",
+      "x": 12,
+      "y": 17,
+      "w": 7
+    },
+    "Ǌ": {
+      "img": "/assets/font/accented.png",
+      "x": 13,
+      "y": 17,
+      "w": 6
+    },
+    "ǋ": {
+      "img": "/assets/font/accented.png",
+      "x": 14,
+      "y": 17,
+      "w": 6
+    },
+    "ǌ": {
+      "img": "/assets/font/accented.png",
+      "x": 15,
+      "y": 17,
+      "w": 2
+    },
+    "ℹ": {
+      "img": "/assets/font/accented.png",
+      "x": 0,
+      "y": 18,
+      "w": 4
+    },
+    "ᵫ": {
+      "img": "/assets/font/accented.png",
+      "x": 1,
+      "y": 18,
+      "w": 2
+    },
+    "Ꜳ": {
+      "img": "/assets/font/accented.png",
+      "x": 2,
+      "y": 18,
+      "w": 4
+    },
+    "ꜳ": {
+      "img": "/assets/font/accented.png",
+      "x": 3,
+      "y": 18,
+      "w": 5
+    },
+    "Ꜵ": {
+      "img": "/assets/font/accented.png",
+      "x": 4,
+      "y": 18,
+      "w": 4
+    },
+    "ꜵ": {
+      "img": "/assets/font/accented.png",
+      "x": 5,
+      "y": 18,
+      "w": 6
+    },
+    "Ꜷ": {
+      "img": "/assets/font/accented.png",
+      "x": 6,
+      "y": 18,
+      "w": 6
+    },
+    "ꜷ": {
+      "img": "/assets/font/accented.png",
+      "x": 7,
+      "y": 18,
+      "w": 6
+    },
+    "Ꜹ": {
+      "img": "/assets/font/accented.png",
+      "x": 8,
+      "y": 18,
+      "w": 1
+    },
+    "Ꜻ": {
+      "img": "/assets/font/accented.png",
+      "x": 9,
+      "y": 18,
+      "w": 2
+    },
+    "Ꜽ": {
+      "img": "/assets/font/accented.png",
+      "x": 10,
+      "y": 18,
+      "w": 1
+    },
+    "ꜽ": {
+      "img": "/assets/font/accented.png",
+      "x": 11,
+      "y": 18,
+      "w": 1
+    },
+    "Ꝏ": {
+      "img": "/assets/font/accented.png",
+      "x": 12,
+      "y": 18,
+      "w": 5
+    },
+    "ꝏ": {
+      "img": "/assets/font/accented.png",
+      "x": 13,
+      "y": 18,
+      "w": 6
+    },
+    "Ꝡ": {
+      "img": "/assets/font/accented.png",
+      "x": 14,
+      "y": 18,
+      "w": 6
+    },
+    "ꝡ": {
+      "img": "/assets/font/accented.png",
+      "x": 15,
+      "y": 18,
+      "w": 6
+    },
+    "ﬄ": {
+      "img": "/assets/font/accented.png",
+      "x": 0,
+      "y": 19,
+      "w": 6
+    },
+    "ﬆ": {
+      "img": "/assets/font/accented.png",
+      "x": 1,
+      "y": 19,
+      "w": 6
+    },
+    "ᚡ": {
+      "img": "/assets/font/accented.png",
+      "x": 2,
+      "y": 19,
+      "w": 6
+    },
+    "ᚵ": {
+      "img": "/assets/font/accented.png",
+      "x": 3,
+      "y": 19,
+      "w": 6
+    },
+    "Ơ": {
+      "img": "/assets/font/accented.png",
+      "x": 4,
+      "y": 19,
+      "w": 6
+    },
+    "ơ": {
+      "img": "/assets/font/accented.png",
+      "x": 5,
+      "y": 19,
+      "w": 6
+    },
+    "Ư": {
+      "img": "/assets/font/accented.png",
+      "x": 6,
+      "y": 19,
+      "w": 6
+    },
+    "ư": {
+      "img": "/assets/font/accented.png",
+      "x": 7,
+      "y": 19,
+      "w": 5
+    },
+    "Ắ": {
+      "img": "/assets/font/accented.png",
+      "x": 8,
+      "y": 19,
+      "w": 6
+    },
+    "ắ": {
+      "img": "/assets/font/accented.png",
+      "x": 9,
+      "y": 19,
+      "w": 6
+    },
+    "Ấ": {
+      "img": "/assets/font/accented.png",
+      "x": 10,
+      "y": 19,
+      "w": 6
+    },
+    "ấ": {
+      "img": "/assets/font/accented.png",
+      "x": 11,
+      "y": 19,
+      "w": 5
+    },
+    "Ế": {
+      "img": "/assets/font/accented.png",
+      "x": 12,
+      "y": 19,
+      "w": 6
+    },
+    "ế": {
+      "img": "/assets/font/accented.png",
+      "x": 13,
+      "y": 19,
+      "w": 6
+    },
+    "ố": {
+      "img": "/assets/font/accented.png",
+      "x": 14,
+      "y": 19,
+      "w": 6
+    },
+    "Ớ": {
+      "img": "/assets/font/accented.png",
+      "x": 15,
+      "y": 19,
+      "w": 6
+    },
+    "ớ": {
+      "img": "/assets/font/accented.png",
+      "x": 0,
+      "y": 20,
+      "w": 6
+    },
+    "Ứ": {
+      "img": "/assets/font/accented.png",
+      "x": 1,
+      "y": 20,
+      "w": 6
+    },
+    "ứ": {
+      "img": "/assets/font/accented.png",
+      "x": 2,
+      "y": 20,
+      "w": 6
+    },
+    "Ằ": {
+      "img": "/assets/font/accented.png",
+      "x": 3,
+      "y": 20,
+      "w": 4
+    },
+    "ằ": {
+      "img": "/assets/font/accented.png",
+      "x": 4,
+      "y": 20,
+      "w": 6
+    },
+    "Ầ": {
+      "img": "/assets/font/accented.png",
+      "x": 5,
+      "y": 20,
+      "w": 4
+    },
+    "ầ": {
+      "img": "/assets/font/accented.png",
+      "x": 6,
+      "y": 20,
+      "w": 6
+    },
+    "Ề": {
+      "img": "/assets/font/accented.png",
+      "x": 7,
+      "y": 20,
+      "w": 2
+    },
+    "ề": {
+      "img": "/assets/font/accented.png",
+      "x": 8,
+      "y": 20,
+      "w": 6
+    },
+    "ồ": {
+      "img": "/assets/font/accented.png",
+      "x": 9,
+      "y": 20,
+      "w": 6
+    },
+    "Ờ": {
+      "img": "/assets/font/accented.png",
+      "x": 10,
+      "y": 20,
+      "w": 6
+    },
+    "ờ": {
+      "img": "/assets/font/accented.png",
+      "x": 11,
+      "y": 20,
+      "w": 6
+    },
+    "Ừ": {
+      "img": "/assets/font/accented.png",
+      "x": 12,
+      "y": 20,
+      "w": 6
+    },
+    "ừ": {
+      "img": "/assets/font/accented.png",
+      "x": 13,
+      "y": 20,
+      "w": 6
+    },
+    "Ả": {
+      "img": "/assets/font/accented.png",
+      "x": 14,
+      "y": 20,
+      "w": 6
+    },
+    "ả": {
+      "img": "/assets/font/accented.png",
+      "x": 15,
+      "y": 20,
+      "w": 6
+    },
+    "Ẳ": {
+      "img": "/assets/font/accented.png",
+      "x": 0,
+      "y": 21,
+      "w": 7
+    },
+    "ẳ": {
+      "img": "/assets/font/accented.png",
+      "x": 1,
+      "y": 21,
+      "w": 6
+    },
+    "Ẩ": {
+      "img": "/assets/font/accented.png",
+      "x": 2,
+      "y": 21,
+      "w": 1
+    },
+    "ẩ": {
+      "img": "/assets/font/accented.png",
+      "x": 3,
+      "y": 21,
+      "w": 2
+    },
+    "Ẻ": {
+      "img": "/assets/font/accented.png",
+      "x": 4,
+      "y": 21,
+      "w": 4
+    },
+    "ẻ": {
+      "img": "/assets/font/accented.png",
+      "x": 5,
+      "y": 21,
+      "w": 6
+    },
+    "ổ": {
+      "img": "/assets/font/accented.png",
+      "x": 6,
+      "y": 21,
+      "w": 2
+    },
+    "Ở": {
+      "img": "/assets/font/accented.png",
+      "x": 7,
+      "y": 21,
+      "w": 6
+    },
+    "Ể": {
+      "img": "/assets/font/accented.png",
+      "x": 8,
+      "y": 21,
+      "w": 6
+    },
+    "ể": {
+      "img": "/assets/font/accented.png",
+      "x": 9,
+      "y": 21,
+      "w": 6
+    },
+    "Ỉ": {
+      "img": "/assets/font/accented.png",
+      "x": 10,
+      "y": 21,
+      "w": 2
+    },
+    "ỉ": {
+      "img": "/assets/font/accented.png",
+      "x": 11,
+      "y": 21,
+      "w": 6
+    },
+    "Ỏ": {
+      "img": "/assets/font/accented.png",
+      "x": 12,
+      "y": 21,
+      "w": 1
+    },
+    "ỏ": {
+      "img": "/assets/font/accented.png",
+      "x": 13,
+      "y": 21,
+      "w": 6
+    },
+    "Ổ": {
+      "img": "/assets/font/accented.png",
+      "x": 14,
+      "y": 21,
+      "w": 6
+    },
+    "ở": {
+      "img": "/assets/font/accented.png",
+      "x": 15,
+      "y": 21,
+      "w": 6
+    },
+    "Ủ": {
+      "img": "/assets/font/accented.png",
+      "x": 0,
+      "y": 22,
+      "w": 1
+    },
+    "ủ": {
+      "img": "/assets/font/accented.png",
+      "x": 1,
+      "y": 22,
+      "w": 6
+    },
+    "Ử": {
+      "img": "/assets/font/accented.png",
+      "x": 2,
+      "y": 22,
+      "w": 6
+    },
+    "ử": {
+      "img": "/assets/font/accented.png",
+      "x": 3,
+      "y": 22,
+      "w": 6
+    },
+    "Ỷ": {
+      "img": "/assets/font/accented.png",
+      "x": 4,
+      "y": 22,
+      "w": 6
+    },
+    "ỷ": {
+      "img": "/assets/font/accented.png",
+      "x": 5,
+      "y": 22,
+      "w": 4
+    },
+    "Ạ": {
+      "img": "/assets/font/accented.png",
+      "x": 6,
+      "y": 22,
+      "w": 4
+    },
+    "ạ": {
+      "img": "/assets/font/accented.png",
+      "x": 7,
+      "y": 22,
+      "w": 1
+    },
+    "Ặ": {
+      "img": "/assets/font/accented.png",
+      "x": 8,
+      "y": 22,
+      "w": 6
+    },
+    "ặ": {
+      "img": "/assets/font/accented.png",
+      "x": 9,
+      "y": 22,
+      "w": 4
+    },
+    "Ậ": {
+      "img": "/assets/font/accented.png",
+      "x": 10,
+      "y": 22,
+      "w": 2
+    },
+    "ậ": {
+      "img": "/assets/font/accented.png",
+      "x": 11,
+      "y": 22,
+      "w": 6
+    },
+    "Ẹ": {
+      "img": "/assets/font/accented.png",
+      "x": 12,
+      "y": 22,
+      "w": 6
+    },
+    "ẹ": {
+      "img": "/assets/font/accented.png",
+      "x": 13,
+      "y": 22,
+      "w": 6
+    },
+    "Ệ": {
+      "img": "/assets/font/accented.png",
+      "x": 14,
+      "y": 22,
+      "w": 6
+    },
+    "ệ": {
+      "img": "/assets/font/accented.png",
+      "x": 15,
+      "y": 22,
+      "w": 2
+    },
+    "Ộ": {
+      "img": "/assets/font/accented.png",
+      "x": 0,
+      "y": 23,
+      "w": 6
+    },
+    "ộ": {
+      "img": "/assets/font/accented.png",
+      "x": 1,
+      "y": 23,
+      "w": 6
+    },
+    "Ợ": {
+      "img": "/assets/font/accented.png",
+      "x": 2,
+      "y": 23,
+      "w": 6
+    },
+    "ợ": {
+      "img": "/assets/font/accented.png",
+      "x": 3,
+      "y": 23,
+      "w": 4
+    },
+    "Ự": {
+      "img": "/assets/font/accented.png",
+      "x": 4,
+      "y": 23,
+      "w": 9
+    },
+    "ự": {
+      "img": "/assets/font/accented.png",
+      "x": 5,
+      "y": 23,
+      "w": 5
+    },
+    "Ỵ": {
+      "img": "/assets/font/accented.png",
+      "x": 6,
+      "y": 23,
+      "w": 5
+    },
+    "ỵ": {
+      "img": "/assets/font/accented.png",
+      "x": 7,
+      "y": 23,
+      "w": 5
+    },
+    "Ố": {
+      "img": "/assets/font/accented.png",
+      "x": 8,
+      "y": 23,
+      "w": 5
+    },
+    "ƕ": {
+      "img": "/assets/font/accented.png",
+      "x": 9,
+      "y": 23,
+      "w": 5
+    },
+    "Ẫ": {
+      "img": "/assets/font/accented.png",
+      "x": 10,
+      "y": 23,
+      "w": 5
+    },
+    "ẫ": {
+      "img": "/assets/font/accented.png",
+      "x": 11,
+      "y": 23,
+      "w": 5
+    },
+    "Ỗ": {
+      "img": "/assets/font/accented.png",
+      "x": 12,
+      "y": 23,
+      "w": 5
+    },
+    "ỗ": {
+      "img": "/assets/font/accented.png",
+      "x": 13,
+      "y": 23,
+      "w": 5
+    },
+    "ữ": {
+      "img": "/assets/font/accented.png",
+      "x": 14,
+      "y": 23,
+      "w": 5
+    },
+    "☞": {
+      "img": "/assets/font/accented.png",
+      "x": 15,
+      "y": 23,
+      "w": 5
+    },
+    "☜": {
+      "img": "/assets/font/accented.png",
+      "x": 0,
+      "y": 24,
+      "w": 9
+    },
+    "☮": {
+      "img": "/assets/font/accented.png",
+      "x": 1,
+      "y": 24,
+      "w": 2
+    },
+    "Ẵ": {
+      "img": "/assets/font/accented.png",
+      "x": 2,
+      "y": 24,
+      "w": 9
+    },
+    "ẵ": {
+      "img": "/assets/font/accented.png",
+      "x": 3,
+      "y": 24,
+      "w": 9
+    },
+    "Ẽ": {
+      "img": "/assets/font/accented.png",
+      "x": 4,
+      "y": 24,
+      "w": 9
+    },
+    "ẽ": {
+      "img": "/assets/font/accented.png",
+      "x": 5,
+      "y": 24,
+      "w": 9
+    },
+    "Ễ": {
+      "img": "/assets/font/accented.png",
+      "x": 6,
+      "y": 24,
+      "w": 6
+    },
+    "ễ": {
+      "img": "/assets/font/accented.png",
+      "x": 7,
+      "y": 24,
+      "w": 6
+    },
+    "Ồ": {
+      "img": "/assets/font/accented.png",
+      "x": 8,
+      "y": 24,
+      "w": 6
+    },
+    "Ỡ": {
+      "img": "/assets/font/accented.png",
+      "x": 9,
+      "y": 24,
+      "w": 9
+    },
+    "ỡ": {
+      "img": "/assets/font/accented.png",
+      "x": 10,
+      "y": 24,
+      "w": 6
+    },
+    "Ữ": {
+      "img": "/assets/font/accented.png",
+      "x": 11,
+      "y": 24,
+      "w": 6
+    },
+    "Ỹ": {
+      "img": "/assets/font/accented.png",
+      "x": 12,
+      "y": 24,
+      "w": 9
+    },
+    "ỹ": {
+      "img": "/assets/font/accented.png",
+      "x": 13,
+      "y": 24,
+      "w": 9
+    },
+    "Ҙ": {
+      "img": "/assets/font/accented.png",
+      "x": 14,
+      "y": 24,
+      "w": 6
+    },
+    "ҙ": {
+      "img": "/assets/font/accented.png",
+      "x": 15,
+      "y": 24,
+      "w": 2
+    },
+    "Ҡ": {
+      "img": "/assets/font/accented.png",
+      "x": 0,
+      "y": 25,
+      "w": 9
+    },
+    "ҡ": {
+      "img": "/assets/font/accented.png",
+      "x": 1,
+      "y": 25,
+      "w": 1
+    },
+    "Ҫ": {
+      "img": "/assets/font/accented.png",
+      "x": 2,
+      "y": 25,
+      "w": 6
+    },
+    "ҫ": {
+      "img": "/assets/font/accented.png",
+      "x": 3,
+      "y": 25,
+      "w": 9
+    },
+    "Ƕ": {
+      "img": "/assets/font/accented.png",
+      "x": 4,
+      "y": 25,
+      "w": 9
+    },
+    " ": {
+      "img": "/assets/font/ascii.png",
+      "x": 0,
+      "y": 2,
+      "w": 3
+    },
+    "!": {
+      "img": "/assets/font/ascii.png",
+      "x": 1,
+      "y": 2,
+      "w": 2
+    },
+    "\"": {
+      "img": "/assets/font/ascii.png",
+      "x": 2,
+      "y": 2,
+      "w": 2
+    },
+    "#": {
+      "img": "/assets/font/ascii.png",
+      "x": 3,
+      "y": 2,
+      "w": 6
+    },
+    "$": {
+      "img": "/assets/font/ascii.png",
+      "x": 4,
+      "y": 2,
+      "w": 6
+    },
+    "%": {
+      "img": "/assets/font/ascii.png",
+      "x": 5,
+      "y": 2,
+      "w": 6
+    },
+    "&": {
+      "img": "/assets/font/ascii.png",
+      "x": 6,
+      "y": 2,
+      "w": 6
+    },
+    "'": {
+      "img": "/assets/font/ascii.png",
+      "x": 7,
+      "y": 2,
+      "w": 2
+    },
+    "(": {
+      "img": "/assets/font/ascii.png",
+      "x": 8,
+      "y": 2,
+      "w": 4
+    },
+    ")": {
+      "img": "/assets/font/ascii.png",
+      "x": 9,
+      "y": 2,
+      "w": 4
+    },
+    "*": {
+      "img": "/assets/font/ascii.png",
+      "x": 10,
+      "y": 2,
+      "w": 4
+    },
+    "+": {
+      "img": "/assets/font/ascii.png",
+      "x": 11,
+      "y": 2,
+      "w": 6
+    },
+    ",": {
+      "img": "/assets/font/ascii.png",
+      "x": 12,
+      "y": 2,
+      "w": 2
+    },
+    "-": {
+      "img": "/assets/font/ascii.png",
+      "x": 13,
+      "y": 2,
+      "w": 6
+    },
+    ".": {
+      "img": "/assets/font/ascii.png",
+      "x": 14,
+      "y": 2,
+      "w": 2
+    },
+    "/": {
+      "img": "/assets/font/ascii.png",
+      "x": 15,
+      "y": 2,
+      "w": 6
+    },
+    ":": {
+      "img": "/assets/font/ascii.png",
+      "x": 10,
+      "y": 3,
+      "w": 2
+    },
+    ";": {
+      "img": "/assets/font/ascii.png",
+      "x": 11,
+      "y": 3,
+      "w": 2
+    },
+    "<": {
+      "img": "/assets/font/ascii.png",
+      "x": 12,
+      "y": 3,
+      "w": 5
+    },
+    "=": {
+      "img": "/assets/font/ascii.png",
+      "x": 13,
+      "y": 3,
+      "w": 6
+    },
+    ">": {
+      "img": "/assets/font/ascii.png",
+      "x": 14,
+      "y": 3,
+      "w": 5
+    },
+    "?": {
+      "img": "/assets/font/ascii.png",
+      "x": 15,
+      "y": 3,
+      "w": 6
+    },
+    "@": {
+      "img": "/assets/font/ascii.png",
+      "x": 0,
+      "y": 4,
+      "w": 7
+    },
+    "A": {
+      "img": "/assets/font/ascii.png",
+      "x": 1,
+      "y": 4,
+      "w": 6
+    },
+    "B": {
+      "img": "/assets/font/ascii.png",
+      "x": 2,
+      "y": 4,
+      "w": 6
+    },
+    "C": {
+      "img": "/assets/font/ascii.png",
+      "x": 3,
+      "y": 4,
+      "w": 6
+    },
+    "D": {
+      "img": "/assets/font/ascii.png",
+      "x": 4,
+      "y": 4,
+      "w": 6
+    },
+    "E": {
+      "img": "/assets/font/ascii.png",
+      "x": 5,
+      "y": 4,
+      "w": 6
+    },
+    "F": {
+      "img": "/assets/font/ascii.png",
+      "x": 6,
+      "y": 4,
+      "w": 6
+    },
+    "G": {
+      "img": "/assets/font/ascii.png",
+      "x": 7,
+      "y": 4,
+      "w": 6
+    },
+    "H": {
+      "img": "/assets/font/ascii.png",
+      "x": 8,
+      "y": 4,
+      "w": 6
+    },
+    "I": {
+      "img": "/assets/font/ascii.png",
+      "x": 9,
+      "y": 4,
+      "w": 4
+    },
+    "J": {
+      "img": "/assets/font/ascii.png",
+      "x": 10,
+      "y": 4,
+      "w": 6
+    },
+    "K": {
+      "img": "/assets/font/ascii.png",
+      "x": 11,
+      "y": 4,
+      "w": 6
+    },
+    "L": {
+      "img": "/assets/font/ascii.png",
+      "x": 12,
+      "y": 4,
+      "w": 6
+    },
+    "M": {
+      "img": "/assets/font/ascii.png",
+      "x": 13,
+      "y": 4,
+      "w": 6
+    },
+    "N": {
+      "img": "/assets/font/ascii.png",
+      "x": 14,
+      "y": 4,
+      "w": 6
+    },
+    "O": {
+      "img": "/assets/font/ascii.png",
+      "x": 15,
+      "y": 4,
+      "w": 6
+    },
+    "P": {
+      "img": "/assets/font/ascii.png",
+      "x": 0,
+      "y": 5,
+      "w": 6
+    },
+    "Q": {
+      "img": "/assets/font/ascii.png",
+      "x": 1,
+      "y": 5,
+      "w": 6
+    },
+    "R": {
+      "img": "/assets/font/ascii.png",
+      "x": 2,
+      "y": 5,
+      "w": 6
+    },
+    "S": {
+      "img": "/assets/font/ascii.png",
+      "x": 3,
+      "y": 5,
+      "w": 6
+    },
+    "T": {
+      "img": "/assets/font/ascii.png",
+      "x": 4,
+      "y": 5,
+      "w": 6
+    },
+    "U": {
+      "img": "/assets/font/ascii.png",
+      "x": 5,
+      "y": 5,
+      "w": 6
+    },
+    "V": {
+      "img": "/assets/font/ascii.png",
+      "x": 6,
+      "y": 5,
+      "w": 6
+    },
+    "W": {
+      "img": "/assets/font/ascii.png",
+      "x": 7,
+      "y": 5,
+      "w": 6
+    },
+    "X": {
+      "img": "/assets/font/ascii.png",
+      "x": 8,
+      "y": 5,
+      "w": 6
+    },
+    "Y": {
+      "img": "/assets/font/ascii.png",
+      "x": 9,
+      "y": 5,
+      "w": 6
+    },
+    "Z": {
+      "img": "/assets/font/ascii.png",
+      "x": 10,
+      "y": 5,
+      "w": 6
+    },
+    "[": {
+      "img": "/assets/font/ascii.png",
+      "x": 11,
+      "y": 5,
+      "w": 4
+    },
+    "\\": {
+      "img": "/assets/font/ascii.png",
+      "x": 12,
+      "y": 5,
+      "w": 6
+    },
+    "]": {
+      "img": "/assets/font/ascii.png",
+      "x": 13,
+      "y": 5,
+      "w": 4
+    },
+    "^": {
+      "img": "/assets/font/ascii.png",
+      "x": 14,
+      "y": 5,
+      "w": 6
+    },
+    "_": {
+      "img": "/assets/font/ascii.png",
+      "x": 15,
+      "y": 5,
+      "w": 6
+    },
+    "`": {
+      "img": "/assets/font/ascii.png",
+      "x": 0,
+      "y": 6,
+      "w": 3
+    },
+    "a": {
+      "img": "/assets/font/ascii.png",
+      "x": 1,
+      "y": 6,
+      "w": 6
+    },
+    "b": {
+      "img": "/assets/font/ascii.png",
+      "x": 2,
+      "y": 6,
+      "w": 6
+    },
+    "c": {
+      "img": "/assets/font/ascii.png",
+      "x": 3,
+      "y": 6,
+      "w": 6
+    },
+    "d": {
+      "img": "/assets/font/ascii.png",
+      "x": 4,
+      "y": 6,
+      "w": 6
+    },
+    "e": {
+      "img": "/assets/font/ascii.png",
+      "x": 5,
+      "y": 6,
+      "w": 6
+    },
+    "f": {
+      "img": "/assets/font/ascii.png",
+      "x": 6,
+      "y": 6,
+      "w": 5
+    },
+    "g": {
+      "img": "/assets/font/ascii.png",
+      "x": 7,
+      "y": 6,
+      "w": 6
+    },
+    "h": {
+      "img": "/assets/font/ascii.png",
+      "x": 8,
+      "y": 6,
+      "w": 6
+    },
+    "i": {
+      "img": "/assets/font/ascii.png",
+      "x": 9,
+      "y": 6,
+      "w": 2
+    },
+    "j": {
+      "img": "/assets/font/ascii.png",
+      "x": 10,
+      "y": 6,
+      "w": 6
+    },
+    "k": {
+      "img": "/assets/font/ascii.png",
+      "x": 11,
+      "y": 6,
+      "w": 5
+    },
+    "l": {
+      "img": "/assets/font/ascii.png",
+      "x": 12,
+      "y": 6,
+      "w": 3
+    },
+    "m": {
+      "img": "/assets/font/ascii.png",
+      "x": 13,
+      "y": 6,
+      "w": 6
+    },
+    "n": {
+      "img": "/assets/font/ascii.png",
+      "x": 14,
+      "y": 6,
+      "w": 6
+    },
+    "o": {
+      "img": "/assets/font/ascii.png",
+      "x": 15,
+      "y": 6,
+      "w": 6
+    },
+    "p": {
+      "img": "/assets/font/ascii.png",
+      "x": 0,
+      "y": 7,
+      "w": 6
+    },
+    "q": {
+      "img": "/assets/font/ascii.png",
+      "x": 1,
+      "y": 7,
+      "w": 6
+    },
+    "r": {
+      "img": "/assets/font/ascii.png",
+      "x": 2,
+      "y": 7,
+      "w": 6
+    },
+    "s": {
+      "img": "/assets/font/ascii.png",
+      "x": 3,
+      "y": 7,
+      "w": 6
+    },
+    "t": {
+      "img": "/assets/font/ascii.png",
+      "x": 4,
+      "y": 7,
+      "w": 4
+    },
+    "u": {
+      "img": "/assets/font/ascii.png",
+      "x": 5,
+      "y": 7,
+      "w": 6
+    },
+    "v": {
+      "img": "/assets/font/ascii.png",
+      "x": 6,
+      "y": 7,
+      "w": 6
+    },
+    "w": {
+      "img": "/assets/font/ascii.png",
+      "x": 7,
+      "y": 7,
+      "w": 6
+    },
+    "x": {
+      "img": "/assets/font/ascii.png",
+      "x": 8,
+      "y": 7,
+      "w": 6
+    },
+    "y": {
+      "img": "/assets/font/ascii.png",
+      "x": 9,
+      "y": 7,
+      "w": 6
+    },
+    "z": {
+      "img": "/assets/font/ascii.png",
+      "x": 10,
+      "y": 7,
+      "w": 6
+    },
+    "{": {
+      "img": "/assets/font/ascii.png",
+      "x": 11,
+      "y": 7,
+      "w": 4
+    },
+    "|": {
+      "img": "/assets/font/ascii.png",
+      "x": 12,
+      "y": 7,
+      "w": 2
+    },
+    "}": {
+      "img": "/assets/font/ascii.png",
+      "x": 13,
+      "y": 7,
+      "w": 4
+    },
+    "~": {
+      "img": "/assets/font/ascii.png",
+      "x": 14,
+      "y": 7,
+      "w": 7
+    },
+    "£": {
+      "img": "/assets/font/ascii.png",
+      "x": 12,
+      "y": 9,
+      "w": 6
+    },
+    "ƒ": {
+      "img": "/assets/font/ascii.png",
+      "x": 15,
+      "y": 9,
+      "w": 6
+    },
+    "ª": {
+      "img": "/assets/font/ascii.png",
+      "x": 6,
+      "y": 10,
+      "w": 5
+    },
+    "º": {
+      "img": "/assets/font/ascii.png",
+      "x": 7,
+      "y": 10,
+      "w": 5
+    },
+    "¬": {
+      "img": "/assets/font/ascii.png",
+      "x": 10,
+      "y": 10,
+      "w": 6
+    },
+    "«": {
+      "img": "/assets/font/ascii.png",
+      "x": 14,
+      "y": 10,
+      "w": 7
+    },
+    "»": {
+      "img": "/assets/font/ascii.png",
+      "x": 15,
+      "y": 10,
+      "w": 7
+    },
+    "░": {
+      "img": "/assets/font/ascii.png",
+      "x": 0,
+      "y": 11,
+      "w": 2
+    },
+    "▒": {
+      "img": "/assets/font/ascii.png",
+      "x": 1,
+      "y": 11,
+      "w": 8
+    },
+    "▓": {
+      "img": "/assets/font/ascii.png",
+      "x": 2,
+      "y": 11,
+      "w": 8
+    },
+    "│": {
+      "img": "/assets/font/ascii.png",
+      "x": 3,
+      "y": 11,
+      "w": 1
+    },
+    "┤": {
+      "img": "/assets/font/ascii.png",
+      "x": 4,
+      "y": 11,
+      "w": 6
+    },
+    "╡": {
+      "img": "/assets/font/ascii.png",
+      "x": 5,
+      "y": 11,
+      "w": 6
+    },
+    "╢": {
+      "img": "/assets/font/ascii.png",
+      "x": 6,
+      "y": 11,
+      "w": 5
+    },
+    "╖": {
+      "img": "/assets/font/ascii.png",
+      "x": 7,
+      "y": 11,
+      "w": 8
+    },
+    "╕": {
+      "img": "/assets/font/ascii.png",
+      "x": 8,
+      "y": 11,
+      "w": 6
+    },
+    "╣": {
+      "img": "/assets/font/ascii.png",
+      "x": 9,
+      "y": 11,
+      "w": 5
+    },
+    "║": {
+      "img": "/assets/font/ascii.png",
+      "x": 10,
+      "y": 11,
+      "w": 1
+    },
+    "╗": {
+      "img": "/assets/font/ascii.png",
+      "x": 11,
+      "y": 11,
+      "w": 8
+    },
+    "╝": {
+      "img": "/assets/font/ascii.png",
+      "x": 12,
+      "y": 11,
+      "w": 8
+    },
+    "╜": {
+      "img": "/assets/font/ascii.png",
+      "x": 13,
+      "y": 11,
+      "w": 8
+    },
+    "╛": {
+      "img": "/assets/font/ascii.png",
+      "x": 14,
+      "y": 11,
+      "w": 6
+    },
+    "┐": {
+      "img": "/assets/font/ascii.png",
+      "x": 15,
+      "y": 11,
+      "w": 6
+    },
+    "└": {
+      "img": "/assets/font/ascii.png",
+      "x": 0,
+      "y": 12,
+      "w": 1
+    },
+    "┴": {
+      "img": "/assets/font/ascii.png",
+      "x": 1,
+      "y": 12,
+      "w": 8
+    },
+    "┬": {
+      "img": "/assets/font/ascii.png",
+      "x": 2,
+      "y": 12,
+      "w": 8
+    },
+    "├": {
+      "img": "/assets/font/ascii.png",
+      "x": 3,
+      "y": 12,
+      "w": 1
+    },
+    "─": {
+      "img": "/assets/font/ascii.png",
+      "x": 4,
+      "y": 12,
+      "w": 8
+    },
+    "┼": {
+      "img": "/assets/font/ascii.png",
+      "x": 5,
+      "y": 12,
+      "w": 8
+    },
+    "╞": {
+      "img": "/assets/font/ascii.png",
+      "x": 6,
+      "y": 12,
+      "w": 1
+    },
+    "╟": {
+      "img": "/assets/font/ascii.png",
+      "x": 7,
+      "y": 12,
+      "w": 1
+    },
+    "╚": {
+      "img": "/assets/font/ascii.png",
+      "x": 8,
+      "y": 12,
+      "w": 1
+    },
+    "╔": {
+      "img": "/assets/font/ascii.png",
+      "x": 9,
+      "y": 12,
+      "w": 1
+    },
+    "╩": {
+      "img": "/assets/font/ascii.png",
+      "x": 10,
+      "y": 12,
+      "w": 8
+    },
+    "╦": {
+      "img": "/assets/font/ascii.png",
+      "x": 11,
+      "y": 12,
+      "w": 8
+    },
+    "╠": {
+      "img": "/assets/font/ascii.png",
+      "x": 12,
+      "y": 12,
+      "w": 1
+    },
+    "═": {
+      "img": "/assets/font/ascii.png",
+      "x": 13,
+      "y": 12,
+      "w": 8
+    },
+    "╬": {
+      "img": "/assets/font/ascii.png",
+      "x": 14,
+      "y": 12,
+      "w": 5
+    },
+    "╧": {
+      "img": "/assets/font/ascii.png",
+      "x": 15,
+      "y": 12,
+      "w": 8
+    },
+    "╨": {
+      "img": "/assets/font/ascii.png",
+      "x": 0,
+      "y": 13,
+      "w": 8
+    },
+    "╤": {
+      "img": "/assets/font/ascii.png",
+      "x": 1,
+      "y": 13,
+      "w": 8
+    },
+    "╥": {
+      "img": "/assets/font/ascii.png",
+      "x": 2,
+      "y": 13,
+      "w": 8
+    },
+    "╙": {
+      "img": "/assets/font/ascii.png",
+      "x": 3,
+      "y": 13,
+      "w": 1
+    },
+    "╘": {
+      "img": "/assets/font/ascii.png",
+      "x": 4,
+      "y": 13,
+      "w": 1
+    },
+    "╒": {
+      "img": "/assets/font/ascii.png",
+      "x": 5,
+      "y": 13,
+      "w": 1
+    },
+    "╓": {
+      "img": "/assets/font/ascii.png",
+      "x": 6,
+      "y": 13,
+      "w": 1
+    },
+    "╫": {
+      "img": "/assets/font/ascii.png",
+      "x": 7,
+      "y": 13,
+      "w": 8
+    },
+    "╪": {
+      "img": "/assets/font/ascii.png",
+      "x": 8,
+      "y": 13,
+      "w": 8
+    },
+    "┘": {
+      "img": "/assets/font/ascii.png",
+      "x": 9,
+      "y": 13,
+      "w": 6
+    },
+    "┌": {
+      "img": "/assets/font/ascii.png",
+      "x": 10,
+      "y": 13,
+      "w": 1
+    },
+    "█": {
+      "img": "/assets/font/ascii.png",
+      "x": 11,
+      "y": 13,
+      "w": 8
+    },
+    "▄": {
+      "img": "/assets/font/ascii.png",
+      "x": 12,
+      "y": 13,
+      "w": 8
+    },
+    "▌": {
+      "img": "/assets/font/ascii.png",
+      "x": 13,
+      "y": 13,
+      "w": 5
+    },
+    "▐": {
+      "img": "/assets/font/ascii.png",
+      "x": 14,
+      "y": 13,
+      "w": 1
+    },
+    "▀": {
+      "img": "/assets/font/ascii.png",
+      "x": 15,
+      "y": 13,
+      "w": 8
+    },
+    "∅": {
+      "img": "/assets/font/ascii.png",
+      "x": 13,
+      "y": 14,
+      "w": 8
+    },
+    "∈": {
+      "img": "/assets/font/ascii.png",
+      "x": 14,
+      "y": 14,
+      "w": 6
+    },
+    "≡": {
+      "img": "/assets/font/ascii.png",
+      "x": 0,
+      "y": 15,
+      "w": 7
+    },
+    "±": {
+      "img": "/assets/font/ascii.png",
+      "x": 1,
+      "y": 15,
+      "w": 6
+    },
+    "≥": {
+      "img": "/assets/font/ascii.png",
+      "x": 2,
+      "y": 15,
+      "w": 6
+    },
+    "≤": {
+      "img": "/assets/font/ascii.png",
+      "x": 3,
+      "y": 15,
+      "w": 6
+    },
+    "⌠": {
+      "img": "/assets/font/ascii.png",
+      "x": 4,
+      "y": 15,
+      "w": 1
+    },
+    "⌡": {
+      "img": "/assets/font/ascii.png",
+      "x": 5,
+      "y": 15,
+      "w": 5
+    },
+    "÷": {
+      "img": "/assets/font/ascii.png",
+      "x": 6,
+      "y": 15,
+      "w": 6
+    },
+    "≈": {
+      "img": "/assets/font/ascii.png",
+      "x": 7,
+      "y": 15,
+      "w": 7
+    },
+    "°": {
+      "img": "/assets/font/ascii.png",
+      "x": 8,
+      "y": 15,
+      "w": 4
+    },
+    "∙": {
+      "img": "/assets/font/ascii.png",
+      "x": 9,
+      "y": 15,
+      "w": 1
+    },
+    "√": {
+      "img": "/assets/font/ascii.png",
+      "x": 11,
+      "y": 15,
+      "w": 7
+    },
+    "ⁿ": {
+      "img": "/assets/font/ascii.png",
+      "x": 12,
+      "y": 15,
+      "w": 5
+    },
+    "²": {
+      "img": "/assets/font/ascii.png",
+      "x": 13,
+      "y": 15,
+      "w": 5
+    },
+    "■": {
+      "img": "/assets/font/ascii.png",
+      "x": 14,
+      "y": 15,
+      "w": 1
+    }
+  }

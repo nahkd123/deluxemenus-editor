@@ -1,0 +1,138 @@
+html, body {
+    margin: 0;
+    width: 100%;
+    height: 100%;
+
+    font-family: 'Calibri Light', 'Calibri', sans-serif;
+}
+
+div.itemlistElement {
+    padding: 5px 12px;
+    user-select: none;
+    padding-bottom: 10px;
+    position: relative;
+    height: 45px;
+}
+
+div.itemlistElement.selected {
+    background: #3c3c3c;
+}
+
+i.icon-minecraft {
+    display: inline-block;
+    position: absolute;
+    top: 5px;
+    left: 12px;
+}
+
+div.textcontainer {
+    display: inline-block;
+    position: absolute;
+    top: 5px;
+    left: 52px;
+}
+
+div.itemlistElement:hover {
+    background: #4e4e4e;
+}
+
+div.textcontainer > h1 {
+    margin: 0;
+    padding-bottom: 5px;
+    font-size: 21px;
+}
+
+div.itemlistElement > .textcontainer > h1 {
+    -webkit-user-modify: read-write;
+    overflow-wrap: break-word;
+    -webkit-line-break: after-white-space;
+    width: calc(25vw - 64px);
+    font-family: monospace;
+    outline: none;
+    padding-left: 5px;
+}
+
+div.itemlistElement > .textcontainer > h1:focus, div.itemlistElement > .textcontainer > h1:hover {
+    background: #232323;
+    border-radius: 5px;
+}
+
+div.itemlistElement.additem > .textcontainer > h1 {
+    -webkit-user-modify: read-only;
+}
+
+div.textcontainer > * {
+    color: white;
+}
+
+div.textcontainer > p {
+    margin: 0;
+    font-size: 12px;
+    padding-left: 5px;
+}
+
+div.panels {
+    display: inline-block;
+    z-index: 0;
+}
+
+div.panel {position: absolute;display: inline-block;top: 24px;height: calc(100% - 24px);}
+
+div.panel.items {
+    left: 352px;
+    width: 25vw;
+    background: #313131;
+    z-index: 2;
+}
+
+div.panel.canvas {
+    left: 0;
+    z-index: 3;
+    background: #444444;
+}
+
+canvas#chestgui {
+    width: 352px;
+    height: 266px;
+    image-rendering: pixelated;
+    display: inline-block;
+}
+
+div.subbutton {
+    color: white;
+    font-size: 12px;
+    padding: 5px 12px;
+    display: inline-block;
+    user-select: none;
+}
+
+div.tabbutton {
+    width: 150px;
+    display: inline-block;
+    padding: 5px;
+    padding-left: 15px;
+    font-size: 12px;
+    color: white;
+    user-select: none;
+}
+
+div.tabbutton.selected {
+    background: #464646;
+}
+
+div.tabbutton:hover, div.subbutton:hover {
+    background: #6161619e;
+}
+
+header {
+    background: #2b2b2b;
+    height: 24px;
+    z-index: 1;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+body {
+    background: #232323;
+}

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link href="index.css" rel="stylesheet">
+        <link href="https://www.gamergeeks.nz/apps/minecraft/web-developer-tools/css-blocks-and-entities/icons-minecraft-0.24.css" rel="stylesheet">
+        <style>
+            @font-face {
+                font-family: minecraft;
+                src: url("assets/font_v2/minecraft_font.otf");
+                image-rendering: pixelated;
+            }
+        </style>
+        <script src="lib/tiles.js"></script>
+    </head>
+    <body>
+        <header>
+            <div class="subbutton">+</div>
+        </header>
+        <div class="panels">
+            <div class="panel canvas">
+                <canvas id="chestgui" width="352" height="266"></canvas>
+            </div>
+            <div class="panel items">
+                <div class="itemlistElement additem" onclick="addNewItem()">
+                    <i class="icon-minecraft icon-minecraft-stained-glass-pane-green"></i>
+                    <div class="textcontainer">
+                        <h1>Add item</h1>
+                        <p>Click to add item</p>
+                    </div>
+                </div>
+                <div class="itemlistElement">
+                    <i class="icon-minecraft icon-minecraft-stained-glass-pane-green"></i>
+                    <div class="textcontainer">
+                        <h1>Add item</h1>
+                        <p>Click to add item</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <script src="index.js"></script>
+    </body>
+</html>
